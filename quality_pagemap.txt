@@ -1,0 +1,761 @@
+OriginPage	LinkToPage	LinkToPageStatus	LinkToPageTitle	OriginPageDate	OriginPageTitle
+http://todomvc.com/examples/polymer/index.html	http://todomvc.com/	ok	TodoMVC	02.09.2018  10:14:05	Polymer • TodoMVC
+http://todomvc.com/examples/knockoutjs/	http://todomvc.com/	ok	TodoMVC	02.09.2018  10:14:05	Knockout.js • TodoMVC
+http://todomvc.com/examples/react/	http://todomvc.com/	ok	TodoMVC	02.09.2018  10:14:05	React • TodoMVC
+http://todomvc.com/examples/react-backbone/	http://todomvc.com/	ok	TodoMVC	02.09.2018  10:14:05	React + Backbone • TodoMVC
+http://todomvc.com/examples/firebase-angular/	http://todomvc.com/	ok	TodoMVC	02.09.2018  10:14:05	Firebase &amp; AngularJS • TodoMVC
+http://todomvc.com/examples/vanillajs/	http://todomvc.com/	ok	TodoMVC	02.09.2018  10:14:05	VanillaJS • TodoMVC
+http://todomvc.com/examples/backbone_require/	http://todomvc.com/	ok	TodoMVC	02.09.2018  10:14:05	Backbone.js + RequireJS • TodoMVC
+http://todomvc.com/examples/vue/	http://todomvc.com/	ok	TodoMVC	02.09.2018  10:14:05	Vue.js • TodoMVC
+http://todomvc.com/examples/backbone/	http://todomvc.com/	ok	TodoMVC	02.09.2018  10:14:05	Backbone.js • TodoMVC
+http://todomvc.com/examples/mithril/	http://todomvc.com/	ok	TodoMVC	02.09.2018  10:14:05	Mithril • TodoMVC
+http://todomvc.com/examples/kendo/	http://todomvc.com/	ok	TodoMVC	02.09.2018  10:14:05	Kendo UI • TodoMVC
+http://todomvc.com/examples/knockoutjs_require/	http://todomvc.com/	ok	TodoMVC	02.09.2018  10:14:05	Knockout.js • TodoMVC
+http://todomvc.com/examples/angular2/	http://todomvc.com/	ok	TodoMVC	02.09.2018  10:14:05	Angular2 • TodoMVC
+http://todomvc.com/examples/lavaca_require/	http://todomvc.com/	ok	TodoMVC	02.09.2018  10:14:05	Lavaca • TodoMVC
+http://todomvc.com/examples/sapui5/	http://todomvc.com/	ok	TodoMVC	02.09.2018  10:14:05	SAPUI5 • TodoMVC
+http://todomvc.com/examples/aurelia/	http://todomvc.com/	ok	TodoMVC	02.09.2018  10:14:05	Aurelia • TodoMVC
+http://todomvc.com/examples/canjs/	http://todomvc.com/	ok	TodoMVC	02.09.2018  10:14:05	CanJS • TodoMVC
+http://todomvc.com/examples/angular-dart/web/	http://todomvc.com/	ok	TodoMVC	02.09.2018  10:14:05	AngularDart • TodoMVC
+http://todomvc.com/examples/spine/	http://todomvc.com/	ok	TodoMVC	02.09.2018  10:14:05	Spine.js • TodoMVC
+http://todomvc.com/examples/canjs_require/	http://todomvc.com/	ok	TodoMVC	02.09.2018  10:14:05	CanJS + RequireJS • TodoMVC
+http://todomvc.com/examples/duel/www/	http://todomvc.com/	ok	TodoMVC	02.09.2018  10:14:05	DUEL &bull; TodoMVC
+http://todomvc.com/examples/angularjs_require/	http://todomvc.com/	ok	TodoMVC	02.09.2018  10:14:05	AngularJS & RequireJS • TodoMVC
+http://todomvc.com/examples/vanilladart/build/web/	http://todomvc.com/	ok	TodoMVC	02.09.2018  10:14:05	Dart • TodoMVC
+http://todomvc.com/examples/knockback/	http://todomvc.com/	ok	TodoMVC	02.09.2018  10:14:05	Knockback.js • TodoMVC
+http://todomvc.com/examples/vanilla-es6/	http://todomvc.com/	ok	TodoMVC	02.09.2018  10:14:05	Vanilla ES6 • TodoMVC
+http://todomvc.com/examples/dojo/	http://todomvc.com/	ok	TodoMVC	02.09.2018  10:14:05	Dojo • TodoMVC
+http://todomvc.com/examples/jquery/	http://todomvc.com/	ok	TodoMVC	02.09.2018  10:14:05	jQuery • TodoMVC
+http://todomvc.com/examples/riotjs/js/todo.html	http://todomvc.com/	ok	TodoMVC	02.09.2018  10:14:05	
+http://todomvc.com/examples/typescript-react/	http://todomvc.com/	ok	TodoMVC	02.09.2018  10:14:05	React • TodoMVC
+http://todomvc.com/examples/closure/	http://todomvc.com/	ok	TodoMVC	02.09.2018  10:14:05	Closure • TodoMVC
+http://todomvc.com/examples/typescript-backbone/	http://todomvc.com/	ok	TodoMVC	02.09.2018  10:14:05	TypeScript & Backbone.js • TodoMVC
+http://todomvc.com/examples/scalajs-react/	http://todomvc.com/	ok	TodoMVC	02.09.2018  10:14:05	scalajs-react • TodoMVC
+http://todomvc.com/examples/dijon/	http://todomvc.com/	ok	TodoMVC	02.09.2018  10:14:05	Dijon • TodoMVC
+http://todomvc.com/examples/exoskeleton/	http://todomvc.com/	ok	TodoMVC	02.09.2018  10:14:05	Exoskeleton.js • TodoMVC
+http://todomvc.com/examples/ractive/	http://todomvc.com/	ok	TodoMVC	02.09.2018  10:14:05	Ractive.js • TodoMVC
+http://todomvc.com/examples/sammyjs/	http://todomvc.com/	ok	TodoMVC	02.09.2018  10:14:05	Sammy.js • TodoMVC
+http://todomvc.com/examples/react-alt/	http://todomvc.com/	ok	TodoMVC	02.09.2018  10:14:05	React + Alt • TodoMVC
+http://todomvc.com/examples/jsblocks/	http://todomvc.com/	ok	TodoMVC	02.09.2018  10:14:05	jsblocks • TodoMVC
+http://todomvc.com/	http://todomvc.com/site-assets/favicon.ico	ok		02.09.2018  10:14:05	TodoMVC
+http://todomvc.com/	http://todomvc.com/bower_components/webcomponentsjs/webcomponents-lite.min.js	ok		02.09.2018  10:14:05	TodoMVC
+http://todomvc.com/	http://todomvc.com/site-assets/main.min.css	ok		02.09.2018  10:14:05	TodoMVC
+http://todomvc.com/	http://todomvc.com/site-assets/logo.svg	ok	TodoMVC	02.09.2018  10:14:05	TodoMVC
+http://todomvc.com/	https://github.com/tastejs/todomvc/archive/master.zip	ok	Download	02.09.2018  10:14:05	TodoMVC
+http://todomvc.com/	https://github.com/tastejs/todomvc	ok	View on GitHub	02.09.2018  10:14:05	TodoMVC
+http://todomvc.com/examples/backbone_require/	https://github.com/tastejs/todomvc	ok	View on GitHub	02.09.2018  10:14:05	Backbone.js + RequireJS • TodoMVC
+http://todomvc.com/	https://medium.com/@tastejs	ok	Blog	02.09.2018  10:14:05	TodoMVC
+http://todomvc.com/	http://todomvc.com/site-assets/logo-icon.png	ok	TodoMVC	02.09.2018  10:14:05	TodoMVC
+http://todomvc.com/	http://coding.smashingmagazine.com/2012/07/27/journey-through-the-javascript-mvc-jungle/	ok	selecting	02.09.2018  10:14:05	TodoMVC
+http://todomvc.com/	https://twitter.com/tastejs	ok		02.09.2018  10:14:05	TodoMVC
+http://todomvc.com/	https://twitter.com/share	ok		02.09.2018  10:14:05	TodoMVC
+http://todomvc.com/	http://todomvc.com/examples/backbone	ok	Backbone.js	02.09.2018  10:14:05	TodoMVC
+http://todomvc.com/	http://todomvc.com/examples/angularjs	ok	AngularJS	02.09.2018  10:14:05	TodoMVC
+http://todomvc.com/	http://todomvc.com/examples/emberjs	ok	Ember.js	02.09.2018  10:14:05	TodoMVC
+http://todomvc.com/	http://todomvc.com/examples/knockoutjs	ok	KnockoutJS	02.09.2018  10:14:05	TodoMVC
+http://todomvc.com/	http://todomvc.com/examples/dojo	ok	Dojo	02.09.2018  10:14:05	TodoMVC
+http://todomvc.com/	http://todomvc.com/examples/knockback	ok	Knockback.js	02.09.2018  10:14:05	TodoMVC
+http://todomvc.com/	http://todomvc.com/examples/canjs	ok	CanJS	02.09.2018  10:14:05	TodoMVC
+http://todomvc.com/	http://todomvc.com/examples/polymer/index.html	ok	Polymer • TodoMVC	02.09.2018  10:14:05	TodoMVC
+http://todomvc.com/	http://todomvc.com/examples/react	ok	React	02.09.2018  10:14:05	TodoMVC
+http://todomvc.com/	http://todomvc.com/examples/mithril	ok	Mithril	02.09.2018  10:14:05	TodoMVC
+http://todomvc.com/	http://todomvc.com/examples/vue	ok	Vue.js	02.09.2018  10:14:05	TodoMVC
+http://todomvc.com/	http://todomvc.com/examples/backbone_marionette	ok	Marionette.js	02.09.2018  10:14:05	TodoMVC
+http://todomvc.com/	http://todomvc.com/examples/kotlin-react	ok	Kotlin + React	02.09.2018  10:14:05	TodoMVC
+http://todomvc.com/	http://todomvc.com/examples/spine	ok	Spine	02.09.2018  10:14:05	TodoMVC
+http://todomvc.com/	http://todomvc.com/examples/vanilladart/build/web	ok	Dart	02.09.2018  10:14:05	TodoMVC
+http://todomvc.com/	http://todomvc.com/examples/gwt	ok	GWT	02.09.2018  10:14:05	TodoMVC
+http://todomvc.com/	http://todomvc.com/examples/closure	ok	Closure	02.09.2018  10:14:05	TodoMVC
+http://todomvc.com/	http://todomvc.com/examples/elm	ok	Elm	02.09.2018  10:14:05	TodoMVC
+http://todomvc.com/	http://todomvc.com/examples/angular-dart/web	ok	AngularDart	02.09.2018  10:14:05	TodoMVC
+http://todomvc.com/	http://todomvc.com/examples/typescript-backbone	ok	TypeScript <br>+ Backbone.js	02.09.2018  10:14:05	TodoMVC
+http://todomvc.com/	http://todomvc.com/examples/typescript-angular	ok	TypeScript <br>+ AngularJS	02.09.2018  10:14:05	TodoMVC
+http://todomvc.com/	http://todomvc.com/examples/typescript-react	ok	TypeScript <br>+ React	02.09.2018  10:14:05	TodoMVC
+http://todomvc.com/	http://todomvc.com/examples/reagent	ok	Reagent	02.09.2018  10:14:05	TodoMVC
+http://todomvc.com/	http://todomvc.com/examples/scalajs-react	ok	Scala.js + React	02.09.2018  10:14:05	TodoMVC
+http://todomvc.com/	http://todomvc.com/examples/binding-scala	ok	Scala.js + Binding.scala	02.09.2018  10:14:05	TodoMVC
+http://todomvc.com/	http://todomvc.com/examples/js_of_ocaml	ok	js_of_ocaml	02.09.2018  10:14:05	TodoMVC
+http://todomvc.com/	http://todomvc.com/examples/humble	not found	Humble + GopherJS	02.09.2018  10:14:05	TodoMVC
+http://todomvc.com/	http://todomvc.com/examples/backbone_require	ok	Backbone.js + RequireJS	02.09.2018  10:14:05	TodoMVC
+http://todomvc.com/	http://todomvc.com/examples/knockoutjs_require	ok	KnockoutJS + RequireJS	02.09.2018  10:14:05	TodoMVC
+http://todomvc.com/	http://todomvc.com/examples/angularjs_require	ok	AngularJS + RequireJS	02.09.2018  10:14:05	TodoMVC
+http://todomvc.com/	http://todomvc.com/examples/canjs_require	ok	CanJS + RequireJS	02.09.2018  10:14:05	TodoMVC
+http://todomvc.com/	http://todomvc.com/examples/lavaca_require	ok	Lavaca + RequireJS	02.09.2018  10:14:05	TodoMVC
+http://todomvc.com/	http://todomvc.com/examples/cujo/index.html	ok	cujo • TodoMVC	02.09.2018  10:14:05	TodoMVC
+http://todomvc.com/	http://todomvc.com/examples/sammyjs	ok	Sammy.js	02.09.2018  10:14:05	TodoMVC
+http://todomvc.com/	http://todomvc.com/examples/somajs	not found	soma.js	02.09.2018  10:14:05	TodoMVC
+http://todomvc.com/	http://todomvc.com/examples/duel/www	ok	DUEL	02.09.2018  10:14:05	TodoMVC
+http://todomvc.com/	http://todomvc.com/examples/kendo	ok	Kendo UI	02.09.2018  10:14:05	TodoMVC
+http://todomvc.com/	http://todomvc.com/examples/dijon	ok	Dijon	02.09.2018  10:14:05	TodoMVC
+http://todomvc.com/	http://todomvc.com/examples/enyo_backbone	ok	Enyo +<br>Backbone.js	02.09.2018  10:14:05	TodoMVC
+http://todomvc.com/	http://todomvc.com/examples/sapui5	ok	SAPUI5	02.09.2018  10:14:05	TodoMVC
+http://todomvc.com/	http://todomvc.com/examples/exoskeleton	ok	Exoskeleton	02.09.2018  10:14:05	TodoMVC
+http://todomvc.com/	http://todomvc.com/examples/ractive	ok	Ractive.js	02.09.2018  10:14:05	TodoMVC
+http://todomvc.com/	http://todomvc.com/examples/react-alt	ok	React + Alt	02.09.2018  10:14:05	TodoMVC
+http://todomvc.com/	http://todomvc.com/examples/react-backbone	ok	React + <br>Backbone.js	02.09.2018  10:14:05	TodoMVC
+http://todomvc.com/	http://todomvc.com/examples/aurelia	ok	Aurelia	02.09.2018  10:14:05	TodoMVC
+http://todomvc.com/	http://todomvc.com/examples/angular2	ok	Angular 2.0	02.09.2018  10:14:05	TodoMVC
+http://todomvc.com/	http://todomvc.com/examples/riotjs	ok	Riot	02.09.2018  10:14:05	TodoMVC
+http://todomvc.com/	http://todomvc.com/examples/jsblocks	ok	JSBlocks	02.09.2018  10:14:05	TodoMVC
+http://todomvc.com/	http://todomvc-socketstream.herokuapp.com/	ok	SocketStream	02.09.2018  10:14:05	TodoMVC
+http://todomvc.com/	http://todomvc.com/examples/firebase-angular	ok	Firebase + AngularJS	02.09.2018  10:14:05	TodoMVC
+http://todomvc.com/	http://gcloud-todos.appspot.com/	ok	Express + gcloud-node	02.09.2018  10:14:05	TodoMVC
+http://todomvc.com/	http://todomvc.com/examples/vanillajs	ok	Vanilla JS	02.09.2018  10:14:05	TodoMVC
+http://todomvc.com/	http://todomvc.com/examples/vanilla-es6	ok	Vanilla ES6	02.09.2018  10:14:05	TodoMVC
+http://todomvc.com/	http://todomvc.com/examples/jquery	ok	jQuery	02.09.2018  10:14:05	TodoMVC
+http://todomvc.com/	http://todomvc.com/site-assets/screenshot.png	ok	Todo app screenshot	02.09.2018  10:14:05	TodoMVC
+http://todomvc.com/	http://todomvc.com/examples/atmajs	not found	Atma.js	02.09.2018  10:14:05	TodoMVC
+http://todomvc.com/	http://todomvc.com/examples/componentjs	not found	ComponentJS	02.09.2018  10:14:05	TodoMVC
+http://todomvc.com/	https://github.com/tastejs/todomvc/wiki	ok	contribution guidelines	02.09.2018  10:14:05	TodoMVC
+http://todomvc.com/	https://github.com/tastejs/todomvc-app-template	ok	template	02.09.2018  10:14:05	TodoMVC
+http://todomvc.com/	https://github.com/tastejs/todomvc/blob/master/app-spec.md	ok	app specification	02.09.2018  10:14:05	TodoMVC
+http://todomvc.com/	https://github.com/addyosmani	ok	<img src="http://gravatar.com/avatar/96270e4c3e5e9806cf7245475c00b275?s=80" width="40" height="40" alt="Addy Osmani">Addy	02.09.2018  10:14:05	TodoMVC
+http://todomvc.com/examples/backbone/	https://github.com/addyosmani	ok	<img src="http://gravatar.com/avatar/96270e4c3e5e9806cf7245475c00b275?s=80" width="40" height="40" alt="Addy Osmani">Addy	02.09.2018  10:14:05	Backbone.js • TodoMVC
+http://todomvc.com/	http://gravatar.com/avatar/96270e4c3e5e9806cf7245475c00b275?s=80	ok	Addy Osmani	02.09.2018  10:14:05	TodoMVC
+http://todomvc.com/	https://github.com/sindresorhus	ok	<img src="http://gravatar.com/avatar/d36a92237c75c5337c17b60d90686bf9.png?s=80" width="40" height="40" alt="Sindre Sorhus">Sindre	02.09.2018  10:14:05	TodoMVC
+http://github.com/sindresorhus	https://github.com/sindresorhus	ok	<img src="http://gravatar.com/avatar/d36a92237c75c5337c17b60d90686bf9.png?s=80" width="40" height="40" alt="Sindre Sorhus">Sindre		Sindre Sorhus
+http://todomvc.com/	http://gravatar.com/avatar/d36a92237c75c5337c17b60d90686bf9.png?s=80	ok	Sindre Sorhus	02.09.2018  10:14:05	TodoMVC
+http://todomvc.com/	https://github.com/passy	ok	<img src="http://gravatar.com/avatar/be451fcdbf0e5ff07f23ed16cb5c90a3.png?s=80" width="40" height="40" alt="Pascal Hartig">Pascal	02.09.2018  10:14:05	TodoMVC
+http://todomvc.com/	http://gravatar.com/avatar/be451fcdbf0e5ff07f23ed16cb5c90a3.png?s=80	ok	Pascal Hartig	02.09.2018  10:14:05	TodoMVC
+http://todomvc.com/	https://github.com/stephenplusplus	ok	<img src="http://gravatar.com/avatar/098cfe2d360e77c3229f2cd5298354c4?s=80" width="40" height="40" alt="Stephen Sawchuk">Stephen	02.09.2018  10:14:05	TodoMVC
+http://todomvc.com/examples/sammyjs/	https://github.com/stephenplusplus	ok	<img src="http://gravatar.com/avatar/098cfe2d360e77c3229f2cd5298354c4?s=80" width="40" height="40" alt="Stephen Sawchuk">Stephen	02.09.2018  10:14:05	Sammy.js • TodoMVC
+http://todomvc.com/	http://gravatar.com/avatar/098cfe2d360e77c3229f2cd5298354c4?s=80	ok	Stephen Sawchuk	02.09.2018  10:14:05	TodoMVC
+http://todomvc.com/	https://github.com/colineberhardt	ok	<img src="http://gravatar.com/avatar/73bba00b41ff1c9ecc3ee29487bace7d?s=80" width="40" height="40" alt="Colin Eberhardt">Colin	02.09.2018  10:14:05	TodoMVC
+http://github.com/colineberhardt	https://github.com/colineberhardt	ok	<img src="http://gravatar.com/avatar/73bba00b41ff1c9ecc3ee29487bace7d?s=80" width="40" height="40" alt="Colin Eberhardt">Colin		Colin Eberhardt
+http://todomvc.com/	http://gravatar.com/avatar/73bba00b41ff1c9ecc3ee29487bace7d?s=80	ok	Colin Eberhardt	02.09.2018  10:14:05	TodoMVC
+http://todomvc.com/	https://github.com/arthurvr	ok	<img src="https://avatars1.githubusercontent.com/u/6025224?v=3&s=80" width="40" height="40" alt="Arthur Verschaeve">Arthur	02.09.2018  10:14:05	TodoMVC
+http://todomvc.com/	https://avatars1.githubusercontent.com/u/6025224?v=3&s=80	ok	Arthur Verschaeve	02.09.2018  10:14:05	TodoMVC
+http://todomvc.com/	https://github.com/samccone	ok	<img src="https://avatars0.githubusercontent.com/u/883126?v=3&s=80" width="40" height="40" alt="Sam Saccone">Sam	02.09.2018  10:14:05	TodoMVC
+http://github.com/samccone	https://github.com/samccone	ok	<img src="https://avatars0.githubusercontent.com/u/883126?v=3&s=80" width="40" height="40" alt="Sam Saccone">Sam		Sam Saccone
+http://todomvc.com/	https://avatars0.githubusercontent.com/u/883126?v=3&s=80	ok	Sam Saccone	02.09.2018  10:14:05	TodoMVC
+http://todomvc.com/	http://todomvc.com/site-assets/main.min.js	ok		02.09.2018  10:14:05	TodoMVC
+http://coding.smashingmagazine.com/2012/07/27/journey-through-the-javascript-mvc-jungle/	https://coding.smashingmagazine.com/2012/07/journey-through-the-javascript-mvc-jungle	ok	redir		selecting
+http://todomvc.com/site-assets/main.min.css	http://todomvc.com/fonts/glyphicons-halflings-regular.eot	not found		02.09.2018  10:14:05	
+http://todomvc.com/site-assets/main.min.css	http://todomvc.com/fonts/glyphicons-halflings-regular.eot?	not found		02.09.2018  10:14:05	
+http://todomvc.com/site-assets/main.min.css	http://todomvc.com/fonts/glyphicons-halflings-regular.woff	not found		02.09.2018  10:14:05	
+http://todomvc.com/site-assets/main.min.css	http://todomvc.com/fonts/glyphicons-halflings-regular.ttf	not found		02.09.2018  10:14:05	
+http://todomvc.com/site-assets/main.min.css	http://todomvc.com/fonts/glyphicons-halflings-regular.svg	not found		02.09.2018  10:14:05	
+https://github.com/tastejs/todomvc/archive/master.zip	https://codeload.github.com/tastejs/todomvc/zip/master	ok	redir		Download
+http://todomvc.com/examples/backbone	http://todomvc.com/examples/backbone/	ok	Backbone.js • TodoMVC		Backbone.js
+http://todomvc.com/examples/angularjs	http://todomvc.com/examples/angularjs/	ok	AngularJS • TodoMVC		AngularJS
+https://twitter.com/share	https://twitter.com/intent/tweet?url=&original_referer=	ok	redir	13.11.2018  21:21:18	
+http://todomvc.com/examples/emberjs	http://todomvc.com/examples/emberjs/	ok	Ember TodoMVC		Ember.js
+http://todomvc.com/examples/knockoutjs	http://todomvc.com/examples/knockoutjs/	ok	Knockout.js • TodoMVC		KnockoutJS
+http://todomvc.com/examples/dojo	http://todomvc.com/examples/dojo/	ok	Dojo • TodoMVC		Dojo
+http://todomvc.com/examples/knockback	http://todomvc.com/examples/knockback/	ok	Knockback.js • TodoMVC		Knockback.js
+http://todomvc.com/examples/canjs	http://todomvc.com/examples/canjs/	ok	CanJS • TodoMVC		CanJS
+http://todomvc.com/examples/polymer/index.html	http://todomvc.com/examples/polymer/bower_components/todomvc-common/base.css	ok		02.09.2018  10:14:05	Polymer • TodoMVC
+http://todomvc.com/examples/polymer/index.html	http://todomvc.com/examples/polymer/bower_components/todomvc-app-css/index.css	ok		02.09.2018  10:14:05	Polymer • TodoMVC
+http://todomvc.com/examples/polymer/index.html	http://todomvc.com/examples/polymer/elements/elements.build.html	ok		02.09.2018  10:14:05	Polymer • TodoMVC
+http://todomvc.com/examples/polymer/index.html	https://www.polymer-project.org/1.0/	ok	The Polymer Authors	02.09.2018  10:14:05	Polymer • TodoMVC
+http://todomvc.com/examples/polymer/index.html	http://todomvc.com/examples/polymer/bower_components/todomvc-common/base.js	ok		02.09.2018  10:14:05	Polymer • TodoMVC
+http://todomvc.com/examples/react	http://todomvc.com/examples/react/	ok	React • TodoMVC		React
+http://todomvc.com/examples/mithril	http://todomvc.com/examples/mithril/	ok	Mithril • TodoMVC		Mithril
+http://todomvc.com/examples/vue	http://todomvc.com/examples/vue/	ok	Vue.js • TodoMVC		Vue.js
+http://todomvc.com/examples/backbone_marionette	http://todomvc.com/examples/backbone_marionette/	ok	Marionette • TodoMVC		Marionette.js
+http://todomvc.com/examples/kotlin-react	http://todomvc.com/examples/kotlin-react/	ok	React Kotlin TodoMVC		Kotlin + React
+http://todomvc.com/examples/react-backbone	http://todomvc.com/examples/react-backbone/	ok	React + Backbone • TodoMVC		React + <br>Backbone.js
+http://todomvc.com/examples/gwt	http://todomvc.com/examples/gwt/	ok	Google Web Toolkit • TodoMVC		GWT
+http://todomvc.com/examples/vanillajs	http://todomvc.com/examples/vanillajs/	ok	VanillaJS • TodoMVC		Vanilla JS
+http://todomvc.com/examples/firebase-angular	http://todomvc.com/examples/firebase-angular/	ok	Firebase &amp; AngularJS • TodoMVC		Firebase + AngularJS
+http://todomvc.com/examples/kendo	http://todomvc.com/examples/kendo/	ok	Kendo UI • TodoMVC		Kendo UI
+http://todomvc.com/examples/backbone_marionette/	http://todomvc.com/examples/backbone_marionette/node_modules/todomvc-app-css/index.css	ok		02.09.2018  10:14:05	Marionette • TodoMVC
+http://todomvc.com/examples/backbone_marionette/	http://todomvc.com/examples/backbone_marionette/node_modules/todomvc-common/base.css	ok		02.09.2018  10:14:05	Marionette • TodoMVC
+http://todomvc.com/examples/backbone_marionette/	http://todomvc.com/examples/backbone_marionette/css/app.css	ok		02.09.2018  10:14:05	Marionette • TodoMVC
+http://todomvc.com/examples/backbone_marionette/	http://github.com/jsoverson	ok	Jarrod Overson	02.09.2018  10:14:05	Marionette • TodoMVC
+http://todomvc.com/examples/backbone_marionette/	http://github.com/derickbailey	ok	Derick Bailey	02.09.2018  10:14:05	Marionette • TodoMVC
+http://todomvc.com/examples/backbone_marionette/	http://marionettejs.com/	ok	Backbone.Marionette	02.09.2018  10:14:05	Marionette • TodoMVC
+http://todomvc.com/examples/backbone_marionette/	http://todomvc.com/examples/backbone_marionette/node_modules/todomvc-common/base.js	ok		02.09.2018  10:14:05	Marionette • TodoMVC
+http://todomvc.com/examples/backbone_marionette/	http://todomvc.com/examples/backbone_marionette/node_modules/jquery/dist/jquery.js	ok		02.09.2018  10:14:05	Marionette • TodoMVC
+http://todomvc.com/examples/backbone_marionette/	http://todomvc.com/examples/backbone_marionette/node_modules/underscore/underscore.js	ok		02.09.2018  10:14:05	Marionette • TodoMVC
+http://todomvc.com/examples/backbone_marionette/	http://todomvc.com/examples/backbone_marionette/node_modules/backbone/backbone.js	ok		02.09.2018  10:14:05	Marionette • TodoMVC
+http://todomvc.com/examples/backbone_marionette/	http://todomvc.com/examples/backbone_marionette/node_modules/backbone.localstorage/backbone.localStorage.js	ok		02.09.2018  10:14:05	Marionette • TodoMVC
+http://todomvc.com/examples/backbone_marionette/	http://todomvc.com/examples/backbone_marionette/node_modules/backbone.radio/build/backbone.radio.js	ok		02.09.2018  10:14:05	Marionette • TodoMVC
+http://todomvc.com/examples/backbone_marionette/	http://todomvc.com/examples/backbone_marionette/node_modules/backbone.marionette/lib/backbone.marionette.js	ok		02.09.2018  10:14:05	Marionette • TodoMVC
+http://todomvc.com/examples/backbone_marionette/	http://todomvc.com/examples/backbone_marionette/js/TodoMVC.Application.js	ok		02.09.2018  10:14:05	Marionette • TodoMVC
+http://todomvc.com/examples/backbone_marionette/	http://todomvc.com/examples/backbone_marionette/js/TodoMVC.Todos.js	ok		02.09.2018  10:14:05	Marionette • TodoMVC
+http://todomvc.com/examples/backbone_marionette/	http://todomvc.com/examples/backbone_marionette/js/TodoMVC.Layout.js	ok		02.09.2018  10:14:05	Marionette • TodoMVC
+http://todomvc.com/examples/backbone_marionette/	http://todomvc.com/examples/backbone_marionette/js/TodoMVC.TodoList.Views.js	ok		02.09.2018  10:14:05	Marionette • TodoMVC
+http://todomvc.com/examples/backbone_marionette/	http://todomvc.com/examples/backbone_marionette/js/TodoMVC.Router.js	ok		02.09.2018  10:14:05	Marionette • TodoMVC
+http://todomvc.com/examples/backbone_marionette/	http://todomvc.com/examples/backbone_marionette/js/TodoMVC.FilterState.js	ok		02.09.2018  10:14:05	Marionette • TodoMVC
+http://todomvc.com/examples/backbone_marionette/	http://todomvc.com/examples/backbone_marionette/js/TodoMVC.js	ok		02.09.2018  10:14:05	Marionette • TodoMVC
+http://todomvc.com/examples/js_of_ocaml	http://todomvc.com/examples/js_of_ocaml/	ok	Js_of_ocaml • TodoMVC		js_of_ocaml
+http://todomvc.com/examples/sapui5	http://todomvc.com/examples/sapui5/	ok	SAPUI5 • TodoMVC		SAPUI5
+http://todomvc.com/examples/knockoutjs/	http://todomvc.com/examples/knockoutjs/node_modules/todomvc-common/base.css	ok		02.09.2018  10:14:05	Knockout.js • TodoMVC
+http://todomvc.com/examples/knockoutjs/	http://todomvc.com/examples/knockoutjs/node_modules/todomvc-app-css/index.css	ok		02.09.2018  10:14:05	Knockout.js • TodoMVC
+http://todomvc.com/examples/knockoutjs/	https://github.com/ashish01/knockoutjs-todos	ok	Ashish Sharma	02.09.2018  10:14:05	Knockout.js • TodoMVC
+http://todomvc.com/examples/knockoutjs_require/	https://github.com/ashish01/knockoutjs-todos	ok	Ashish Sharma	02.09.2018  10:14:05	Knockout.js • TodoMVC
+http://todomvc.com/examples/knockoutjs/	http://knockmeout.net/	ok	Ryan Niemeyer	02.09.2018  10:14:05	Knockout.js • TodoMVC
+http://todomvc.com/examples/knockoutjs_require/	http://knockmeout.net/	ok	Ryan Niemeyer	02.09.2018  10:14:05	Knockout.js • TodoMVC
+http://todomvc.com/examples/knockoutjs/	http://todomvc.com/examples/knockoutjs/node_modules/todomvc-common/base.js	ok		02.09.2018  10:14:05	Knockout.js • TodoMVC
+http://todomvc.com/examples/knockoutjs/	http://todomvc.com/examples/knockoutjs/node_modules/knockout/build/output/knockout-latest.js	ok		02.09.2018  10:14:05	Knockout.js • TodoMVC
+http://todomvc.com/examples/knockoutjs/	http://todomvc.com/examples/knockoutjs/node_modules/director/build/director.js	ok		02.09.2018  10:14:05	Knockout.js • TodoMVC
+http://todomvc.com/examples/knockoutjs/	http://todomvc.com/examples/knockoutjs/js/app.js	ok		02.09.2018  10:14:05	Knockout.js • TodoMVC
+http://todomvc.com/examples/emberjs/	http://todomvc.com/examples/emberjs/assets/vendor-7b5c98520910afa58d74e05ec86cd873.css	ok		02.09.2018  10:14:05	Ember TodoMVC
+http://todomvc.com/examples/emberjs/	http://todomvc.com/examples/emberjs/assets/todomvc-d41d8cd98f00b204e9800998ecf8427e.css	no info to return		02.09.2018  10:14:05	Ember TodoMVC
+http://todomvc.com/examples/emberjs/	http://todomvc.com/examples/emberjs/assets/vendor-ce652699ca527d40a18c9c5586658cde.js	ok		02.09.2018  10:14:05	Ember TodoMVC
+http://todomvc.com/examples/emberjs/	http://todomvc.com/examples/emberjs/assets/todomvc-8144cc5f479447dfbcfb6cea22b40476.js	ok		02.09.2018  10:14:05	Ember TodoMVC
+http://todomvc.com/examples/knockoutjs_require	http://todomvc.com/examples/knockoutjs_require/	ok	Knockout.js • TodoMVC		KnockoutJS + RequireJS
+http://todomvc.com/examples/canjs_require	http://todomvc.com/examples/canjs_require/	ok	CanJS + RequireJS • TodoMVC		CanJS + RequireJS
+http://todomvc.com/examples/ractive	http://todomvc.com/examples/ractive/	ok	Ractive.js • TodoMVC		Ractive.js
+http://todomvc.com/examples/angularjs/	http://todomvc.com/examples/angularjs/node_modules/todomvc-common/base.css	ok		02.09.2018  10:14:05	AngularJS • TodoMVC
+http://todomvc.com/examples/angularjs/	http://todomvc.com/examples/angularjs/node_modules/todomvc-app-css/index.css	ok		02.09.2018  10:14:05	AngularJS • TodoMVC
+http://todomvc.com/examples/angularjs/	http://todomvc.com/examples/angularjs/node_modules/todomvc-common/base.js	ok		02.09.2018  10:14:05	AngularJS • TodoMVC
+http://todomvc.com/examples/angularjs/	http://todomvc.com/examples/angularjs/node_modules/angular/angular.js	ok		02.09.2018  10:14:05	AngularJS • TodoMVC
+http://todomvc.com/examples/angularjs/	http://todomvc.com/examples/angularjs/node_modules/angular-route/angular-route.js	ok		02.09.2018  10:14:05	AngularJS • TodoMVC
+http://todomvc.com/examples/angularjs/	http://todomvc.com/examples/angularjs/node_modules/angular-resource/angular-resource.js	ok		02.09.2018  10:14:05	AngularJS • TodoMVC
+http://todomvc.com/examples/angularjs/	http://todomvc.com/examples/angularjs/js/app.js	ok		02.09.2018  10:14:05	AngularJS • TodoMVC
+http://todomvc.com/examples/angularjs/	http://todomvc.com/examples/angularjs/js/controllers/todoCtrl.js	ok		02.09.2018  10:14:05	AngularJS • TodoMVC
+http://todomvc.com/examples/angularjs/	http://todomvc.com/examples/angularjs/js/services/todoStorage.js	ok		02.09.2018  10:14:05	AngularJS • TodoMVC
+http://todomvc.com/examples/angularjs/	http://todomvc.com/examples/angularjs/js/directives/todoFocus.js	ok		02.09.2018  10:14:05	AngularJS • TodoMVC
+http://todomvc.com/examples/angularjs/	http://todomvc.com/examples/angularjs/js/directives/todoEscape.js	ok		02.09.2018  10:14:05	AngularJS • TodoMVC
+http://todomvc.com/examples/react/	http://todomvc.com/examples/react/node_modules/todomvc-common/base.css	ok		02.09.2018  10:14:05	React • TodoMVC
+http://todomvc.com/examples/react/	http://todomvc.com/examples/react/node_modules/todomvc-app-css/index.css	ok		02.09.2018  10:14:05	React • TodoMVC
+http://todomvc.com/examples/react/	http://github.com/petehunt/	ok	petehunt	02.09.2018  10:14:05	React • TodoMVC
+http://todomvc.com/examples/react-backbone/	http://github.com/petehunt/	ok	petehunt	02.09.2018  10:14:05	React + Backbone • TodoMVC
+http://todomvc.com/examples/react-alt/	http://github.com/petehunt/	ok	petehunt	02.09.2018  10:14:05	React + Alt • TodoMVC
+http://todomvc.com/examples/react/	http://todomvc.com/examples/react/node_modules/todomvc-common/base.js	ok		02.09.2018  10:14:05	React • TodoMVC
+http://todomvc.com/examples/react/	http://todomvc.com/examples/react/node_modules/react/dist/react-with-addons.js	ok		02.09.2018  10:14:05	React • TodoMVC
+http://todomvc.com/examples/react/	http://todomvc.com/examples/react/node_modules/classnames/index.js	ok		02.09.2018  10:14:05	React • TodoMVC
+http://todomvc.com/examples/react/	http://todomvc.com/examples/react/node_modules/react/dist/JSXTransformer.js	ok		02.09.2018  10:14:05	React • TodoMVC
+http://todomvc.com/examples/react/	http://todomvc.com/examples/react/node_modules/director/build/director.js	ok		02.09.2018  10:14:05	React • TodoMVC
+http://todomvc.com/examples/react/	http://todomvc.com/examples/react/js/utils.js	ok		02.09.2018  10:14:05	React • TodoMVC
+http://todomvc.com/examples/react/	http://todomvc.com/examples/react/js/todoModel.js	ok		02.09.2018  10:14:05	React • TodoMVC
+http://todomvc.com/examples/react/	http://todomvc.com/examples/react/js/todoItem.jsx	ok		02.09.2018  10:14:05	React • TodoMVC
+http://todomvc.com/examples/react/	http://todomvc.com/examples/react/js/footer.jsx	ok		02.09.2018  10:14:05	React • TodoMVC
+http://todomvc.com/examples/react/	http://todomvc.com/examples/react/js/app.jsx	ok		02.09.2018  10:14:05	React • TodoMVC
+http://marionettejs.com/	https://marionettejs.com/	ok	redir		Backbone.Marionette
+http://todomvc.com/examples/react-backbone/	http://todomvc.com/examples/react-backbone/node_modules/todomvc-common/base.css	ok		02.09.2018  10:14:05	React + Backbone • TodoMVC
+http://todomvc.com/examples/react-backbone/	http://todomvc.com/examples/react-backbone/node_modules/todomvc-app-css/index.css	ok		02.09.2018  10:14:05	React + Backbone • TodoMVC
+http://todomvc.com/examples/react-backbone/	http://todomvc.com/examples/react-backbone/node_modules/todomvc-common/base.js	ok		02.09.2018  10:14:05	React + Backbone • TodoMVC
+http://todomvc.com/examples/react-backbone/	http://todomvc.com/examples/react-backbone/node_modules/react/dist/react.js	ok		02.09.2018  10:14:05	React + Backbone • TodoMVC
+http://todomvc.com/examples/react-backbone/	http://todomvc.com/examples/react-backbone/node_modules/react/dist/JSXTransformer.js	ok		02.09.2018  10:14:05	React + Backbone • TodoMVC
+http://todomvc.com/examples/react-backbone/	http://todomvc.com/examples/react-backbone/node_modules/classnames/index.js	ok		02.09.2018  10:14:05	React + Backbone • TodoMVC
+http://todomvc.com/examples/react-backbone/	http://todomvc.com/examples/react-backbone/node_modules/jquery/dist/jquery.js	ok		02.09.2018  10:14:05	React + Backbone • TodoMVC
+http://todomvc.com/examples/react-backbone/	http://todomvc.com/examples/react-backbone/node_modules/underscore/underscore.js	ok		02.09.2018  10:14:05	React + Backbone • TodoMVC
+http://todomvc.com/examples/react-backbone/	http://todomvc.com/examples/react-backbone/node_modules/backbone/backbone.js	ok		02.09.2018  10:14:05	React + Backbone • TodoMVC
+http://todomvc.com/examples/react-backbone/	http://todomvc.com/examples/react-backbone/node_modules/backbone.localstorage/backbone.localStorage.js	ok		02.09.2018  10:14:05	React + Backbone • TodoMVC
+http://todomvc.com/examples/react-backbone/	http://todomvc.com/examples/react-backbone/js/todo.js	ok		02.09.2018  10:14:05	React + Backbone • TodoMVC
+http://todomvc.com/examples/react-backbone/	http://todomvc.com/examples/react-backbone/js/todos.js	ok		02.09.2018  10:14:05	React + Backbone • TodoMVC
+http://todomvc.com/examples/react-backbone/	http://todomvc.com/examples/react-backbone/js/todoItem.jsx	ok		02.09.2018  10:14:05	React + Backbone • TodoMVC
+http://todomvc.com/examples/react-backbone/	http://todomvc.com/examples/react-backbone/js/footer.jsx	ok		02.09.2018  10:14:05	React + Backbone • TodoMVC
+http://todomvc.com/examples/react-backbone/	http://todomvc.com/examples/react-backbone/js/app.jsx	ok		02.09.2018  10:14:05	React + Backbone • TodoMVC
+http://knockmeout.net/	http://www.knockmeout.net/	ok	redir		Ryan Niemeyer
+http://todomvc.com/examples/enyo_backbone	http://todomvc.com/examples/enyo_backbone/	ok	Enyo & Backbone.js • TodoMVC		Enyo +<br>Backbone.js
+http://todomvc.com/examples/firebase-angular/	http://todomvc.com/examples/firebase-angular/node_modules/todomvc-common/base.css	ok		02.09.2018  10:14:05	Firebase &amp; AngularJS • TodoMVC
+http://todomvc.com/examples/firebase-angular/	http://todomvc.com/examples/firebase-angular/node_modules/todomvc-app-css/index.css	ok		02.09.2018  10:14:05	Firebase &amp; AngularJS • TodoMVC
+http://todomvc.com/examples/firebase-angular/	http://twitter.com/cburgdorf	ok	Christoph Burgdorf	02.09.2018  10:14:05	Firebase &amp; AngularJS • TodoMVC
+http://todomvc.com/examples/angularjs_require/	http://twitter.com/cburgdorf	ok	Christoph Burgdorf	02.09.2018  10:14:05	AngularJS & RequireJS • TodoMVC
+http://todomvc.com/examples/typescript-angular/	http://twitter.com/cburgdorf	ok	Christoph Burgdorf	02.09.2018  10:14:05	Typescript & AngularJS • TodoMVC
+http://todomvc.com/examples/firebase-angular/	http://ericbidelman.com/	ok	Eric Bidelman	02.09.2018  10:14:05	Firebase &amp; AngularJS • TodoMVC
+http://todomvc.com/examples/angularjs_require/	http://ericbidelman.com/	ok	Eric Bidelman	02.09.2018  10:14:05	AngularJS & RequireJS • TodoMVC
+http://todomvc.com/examples/typescript-angular/	http://ericbidelman.com/	ok	Eric Bidelman	02.09.2018  10:14:05	Typescript & AngularJS • TodoMVC
+http://todomvc.com/examples/firebase-angular/	http://twitter.com/_davideast	ok	David East	02.09.2018  10:14:05	Firebase &amp; AngularJS • TodoMVC
+http://todomvc.com/examples/firebase-angular/	http://jacobmumm.com/	ok	Jacob Mumm	02.09.2018  10:14:05	Firebase &amp; AngularJS • TodoMVC
+http://todomvc.com/examples/angularjs_require/	http://jacobmumm.com/	ok	Jacob Mumm	02.09.2018  10:14:05	AngularJS & RequireJS • TodoMVC
+http://todomvc.com/examples/typescript-angular/	http://jacobmumm.com/	ok	Jacob Mumm	02.09.2018  10:14:05	Typescript & AngularJS • TodoMVC
+http://todomvc.com/examples/firebase-angular/	http://blog.igorminar.com/	ok	Igor Minar	02.09.2018  10:14:05	Firebase &amp; AngularJS • TodoMVC
+http://todomvc.com/examples/angularjs_require/	http://blog.igorminar.com/	ok	Igor Minar	02.09.2018  10:14:05	AngularJS & RequireJS • TodoMVC
+http://todomvc.com/examples/typescript-angular/	http://blog.igorminar.com/	ok	Igor Minar	02.09.2018  10:14:05	Typescript & AngularJS • TodoMVC
+http://todomvc.com/examples/firebase-angular/	http://cdn.firebase.com/js/client/2.2.2/firebase.js	ok		02.09.2018  10:14:05	Firebase &amp; AngularJS • TodoMVC
+http://todomvc.com/examples/firebase-angular/	http://todomvc.com/examples/firebase-angular/node_modules/todomvc-common/base.js	ok		02.09.2018  10:14:05	Firebase &amp; AngularJS • TodoMVC
+http://todomvc.com/examples/firebase-angular/	http://todomvc.com/examples/firebase-angular/node_modules/angular/angular.js	ok		02.09.2018  10:14:05	Firebase &amp; AngularJS • TodoMVC
+http://todomvc.com/examples/firebase-angular/	http://todomvc.com/examples/firebase-angular/node_modules/angularfire/dist/angularfire.js	ok		02.09.2018  10:14:05	Firebase &amp; AngularJS • TodoMVC
+http://todomvc.com/examples/firebase-angular/	http://todomvc.com/examples/firebase-angular/js/app.js	ok		02.09.2018  10:14:05	Firebase &amp; AngularJS • TodoMVC
+http://todomvc.com/examples/firebase-angular/	http://todomvc.com/examples/firebase-angular/js/controllers/todoCtrl.js	ok		02.09.2018  10:14:05	Firebase &amp; AngularJS • TodoMVC
+http://todomvc.com/examples/firebase-angular/	http://todomvc.com/examples/firebase-angular/js/directives/todoFocus.js	ok		02.09.2018  10:14:05	Firebase &amp; AngularJS • TodoMVC
+http://todomvc.com/examples/firebase-angular/	http://todomvc.com/examples/firebase-angular/js/directives/todoBlur.js	ok		02.09.2018  10:14:05	Firebase &amp; AngularJS • TodoMVC
+http://todomvc.com/examples/firebase-angular/	http://todomvc.com/examples/firebase-angular/js/directives/todoEscape.js	ok		02.09.2018  10:14:05	Firebase &amp; AngularJS • TodoMVC
+http://todomvc.com/examples/angular-dart/web	http://todomvc.com/examples/angular-dart/web/	ok	AngularDart • TodoMVC		AngularDart
+http://github.com/petehunt/	https://github.com/petehunt/	ok	redir		petehunt
+http://todomvc.com/examples/angularjs/node_modules/todomvc-app-css/index.css	data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2240%22%20height%3D%2240%22%20viewBox%3D%22-10%20-18%20100%20135%22%3E%3Ccircle%20cx%3D%2250%22%20cy%3D%2250%22%20r%3D%2250%22%20fill%3D%22none%22%20stroke%3D%22%23ededed%22%20stroke-width%3D%223%22/%3E%3C/svg%3E	not found		02.09.2018  10:14:05	
+http://todomvc.com/examples/backbone_marionette/node_modules/todomvc-app-css/index.css	data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2240%22%20height%3D%2240%22%20viewBox%3D%22-10%20-18%20100%20135%22%3E%3Ccircle%20cx%3D%2250%22%20cy%3D%2250%22%20r%3D%2250%22%20fill%3D%22none%22%20stroke%3D%22%23ededed%22%20stroke-width%3D%223%22/%3E%3C/svg%3E	not found		02.09.2018  10:14:05	
+http://todomvc.com/examples/vanillajs/node_modules/todomvc-app-css/index.css	data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2240%22%20height%3D%2240%22%20viewBox%3D%22-10%20-18%20100%20135%22%3E%3Ccircle%20cx%3D%2250%22%20cy%3D%2250%22%20r%3D%2250%22%20fill%3D%22none%22%20stroke%3D%22%23ededed%22%20stroke-width%3D%223%22/%3E%3C/svg%3E	not found		02.09.2018  10:14:05	
+http://todomvc.com/examples/backbone_require/node_modules/todomvc-app-css/index.css	data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2240%22%20height%3D%2240%22%20viewBox%3D%22-10%20-18%20100%20135%22%3E%3Ccircle%20cx%3D%2250%22%20cy%3D%2250%22%20r%3D%2250%22%20fill%3D%22none%22%20stroke%3D%22%23ededed%22%20stroke-width%3D%223%22/%3E%3C/svg%3E	not found		02.09.2018  10:14:05	
+http://todomvc.com/examples/mithril/node_modules/todomvc-app-css/index.css	data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2240%22%20height%3D%2240%22%20viewBox%3D%22-10%20-18%20100%20135%22%3E%3Ccircle%20cx%3D%2250%22%20cy%3D%2250%22%20r%3D%2250%22%20fill%3D%22none%22%20stroke%3D%22%23ededed%22%20stroke-width%3D%223%22/%3E%3C/svg%3E	not found		02.09.2018  10:14:05	
+http://todomvc.com/examples/firebase-angular/node_modules/todomvc-app-css/index.css	data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2240%22%20height%3D%2240%22%20viewBox%3D%22-10%20-18%20100%20135%22%3E%3Ccircle%20cx%3D%2250%22%20cy%3D%2250%22%20r%3D%2250%22%20fill%3D%22none%22%20stroke%3D%22%23ededed%22%20stroke-width%3D%223%22/%3E%3C/svg%3E	not found		02.09.2018  10:14:05	
+http://todomvc.com/examples/react-backbone/node_modules/todomvc-app-css/index.css	data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2240%22%20height%3D%2240%22%20viewBox%3D%22-10%20-18%20100%20135%22%3E%3Ccircle%20cx%3D%2250%22%20cy%3D%2250%22%20r%3D%2250%22%20fill%3D%22none%22%20stroke%3D%22%23ededed%22%20stroke-width%3D%223%22/%3E%3C/svg%3E	not found		02.09.2018  10:14:05	
+http://todomvc.com/examples/backbone/node_modules/todomvc-app-css/index.css	data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2240%22%20height%3D%2240%22%20viewBox%3D%22-10%20-18%20100%20135%22%3E%3Ccircle%20cx%3D%2250%22%20cy%3D%2250%22%20r%3D%2250%22%20fill%3D%22none%22%20stroke%3D%22%23ededed%22%20stroke-width%3D%223%22/%3E%3C/svg%3E	not found		02.09.2018  10:14:05	
+http://todomvc.com/examples/reagent/node_modules/todomvc-app-css/index.css	data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2240%22%20height%3D%2240%22%20viewBox%3D%22-10%20-18%20100%20135%22%3E%3Ccircle%20cx%3D%2250%22%20cy%3D%2250%22%20r%3D%2250%22%20fill%3D%22none%22%20stroke%3D%22%23ededed%22%20stroke-width%3D%223%22/%3E%3C/svg%3E	not found		02.09.2018  10:14:05	
+http://todomvc.com/examples/vue/node_modules/todomvc-app-css/index.css	data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2240%22%20height%3D%2240%22%20viewBox%3D%22-10%20-18%20100%20135%22%3E%3Ccircle%20cx%3D%2250%22%20cy%3D%2250%22%20r%3D%2250%22%20fill%3D%22none%22%20stroke%3D%22%23ededed%22%20stroke-width%3D%223%22/%3E%3C/svg%3E	not found		02.09.2018  10:14:05	
+http://todomvc.com/examples/lavaca_require/node_modules/todomvc-app-css/index.css	data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2240%22%20height%3D%2240%22%20viewBox%3D%22-10%20-18%20100%20135%22%3E%3Ccircle%20cx%3D%2250%22%20cy%3D%2250%22%20r%3D%2250%22%20fill%3D%22none%22%20stroke%3D%22%23ededed%22%20stroke-width%3D%223%22/%3E%3C/svg%3E	not found		02.09.2018  10:14:05	
+http://todomvc.com/examples/react/node_modules/todomvc-app-css/index.css	data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2240%22%20height%3D%2240%22%20viewBox%3D%22-10%20-18%20100%20135%22%3E%3Ccircle%20cx%3D%2250%22%20cy%3D%2250%22%20r%3D%2250%22%20fill%3D%22none%22%20stroke%3D%22%23ededed%22%20stroke-width%3D%223%22/%3E%3C/svg%3E	not found		02.09.2018  10:14:05	
+http://todomvc.com/examples/polymer/bower_components/todomvc-app-css/index.css	data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2240%22%20height%3D%2240%22%20viewBox%3D%22-10%20-18%20100%20135%22%3E%3Ccircle%20cx%3D%2250%22%20cy%3D%2250%22%20r%3D%2250%22%20fill%3D%22none%22%20stroke%3D%22%23ededed%22%20stroke-width%3D%223%22/%3E%3C/svg%3E	not found		02.09.2018  10:14:05	
+http://todomvc.com/examples/knockoutjs/node_modules/todomvc-app-css/index.css	data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2240%22%20height%3D%2240%22%20viewBox%3D%22-10%20-18%20100%20135%22%3E%3Ccircle%20cx%3D%2250%22%20cy%3D%2250%22%20r%3D%2250%22%20fill%3D%22none%22%20stroke%3D%22%23ededed%22%20stroke-width%3D%223%22/%3E%3C/svg%3E	not found		02.09.2018  10:14:05	
+http://todomvc.com/examples/spine/node_modules/todomvc-app-css/index.css	data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2240%22%20height%3D%2240%22%20viewBox%3D%22-10%20-18%20100%20135%22%3E%3Ccircle%20cx%3D%2250%22%20cy%3D%2250%22%20r%3D%2250%22%20fill%3D%22none%22%20stroke%3D%22%23ededed%22%20stroke-width%3D%223%22/%3E%3C/svg%3E	not found		02.09.2018  10:14:05	
+http://todomvc.com/examples/jquery/node_modules/todomvc-app-css/index.css	data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2240%22%20height%3D%2240%22%20viewBox%3D%22-10%20-18%20100%20135%22%3E%3Ccircle%20cx%3D%2250%22%20cy%3D%2250%22%20r%3D%2250%22%20fill%3D%22none%22%20stroke%3D%22%23ededed%22%20stroke-width%3D%223%22/%3E%3C/svg%3E	not found		02.09.2018  10:14:05	
+http://todomvc.com/examples/angular-dart/node_modules/todomvc-app-css/index.css	data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2240%22%20height%3D%2240%22%20viewBox%3D%22-10%20-18%20100%20135%22%3E%3Ccircle%20cx%3D%2250%22%20cy%3D%2250%22%20r%3D%2250%22%20fill%3D%22none%22%20stroke%3D%22%23ededed%22%20stroke-width%3D%223%22/%3E%3C/svg%3E	not found		02.09.2018  10:14:05	
+http://todomvc.com/examples/typescript-angular/node_modules/todomvc-app-css/index.css	data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2240%22%20height%3D%2240%22%20viewBox%3D%22-10%20-18%20100%20135%22%3E%3Ccircle%20cx%3D%2250%22%20cy%3D%2250%22%20r%3D%2250%22%20fill%3D%22none%22%20stroke%3D%22%23ededed%22%20stroke-width%3D%223%22/%3E%3C/svg%3E	not found		02.09.2018  10:14:05	
+http://todomvc.com/examples/angular2/node_modules/todomvc-app-css/index.css	data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2240%22%20height%3D%2240%22%20viewBox%3D%22-10%20-18%20100%20135%22%3E%3Ccircle%20cx%3D%2250%22%20cy%3D%2250%22%20r%3D%2250%22%20fill%3D%22none%22%20stroke%3D%22%23ededed%22%20stroke-width%3D%223%22/%3E%3C/svg%3E	not found		02.09.2018  10:14:05	
+http://todomvc.com/examples/vanilla-es6/node_modules/todomvc-app-css/index.css	data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2240%22%20height%3D%2240%22%20viewBox%3D%22-10%20-18%20100%20135%22%3E%3Ccircle%20cx%3D%2250%22%20cy%3D%2250%22%20r%3D%2250%22%20fill%3D%22none%22%20stroke%3D%22%23ededed%22%20stroke-width%3D%223%22/%3E%3C/svg%3E	not found		02.09.2018  10:14:05	
+http://todomvc.com/examples/canjs_require/node_modules/todomvc-app-css/index.css	data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2240%22%20height%3D%2240%22%20viewBox%3D%22-10%20-18%20100%20135%22%3E%3Ccircle%20cx%3D%2250%22%20cy%3D%2250%22%20r%3D%2250%22%20fill%3D%22none%22%20stroke%3D%22%23ededed%22%20stroke-width%3D%223%22/%3E%3C/svg%3E	not found		02.09.2018  10:14:05	
+http://todomvc.com/examples/dojo/node_modules/todomvc-app-css/index.css	data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2240%22%20height%3D%2240%22%20viewBox%3D%22-10%20-18%20100%20135%22%3E%3Ccircle%20cx%3D%2250%22%20cy%3D%2250%22%20r%3D%2250%22%20fill%3D%22none%22%20stroke%3D%22%23ededed%22%20stroke-width%3D%223%22/%3E%3C/svg%3E	not found		02.09.2018  10:14:05	
+http://todomvc.com/examples/canjs/node_modules/todomvc-app-css/index.css	data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2240%22%20height%3D%2240%22%20viewBox%3D%22-10%20-18%20100%20135%22%3E%3Ccircle%20cx%3D%2250%22%20cy%3D%2250%22%20r%3D%2250%22%20fill%3D%22none%22%20stroke%3D%22%23ededed%22%20stroke-width%3D%223%22/%3E%3C/svg%3E	not found		02.09.2018  10:14:05	
+http://todomvc.com/examples/knockoutjs_require/node_modules/todomvc-app-css/index.css	data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2240%22%20height%3D%2240%22%20viewBox%3D%22-10%20-18%20100%20135%22%3E%3Ccircle%20cx%3D%2250%22%20cy%3D%2250%22%20r%3D%2250%22%20fill%3D%22none%22%20stroke%3D%22%23ededed%22%20stroke-width%3D%223%22/%3E%3C/svg%3E	not found		02.09.2018  10:14:05	
+http://todomvc.com/examples/closure/node_modules/todomvc-app-css/index.css	data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2240%22%20height%3D%2240%22%20viewBox%3D%22-10%20-18%20100%20135%22%3E%3Ccircle%20cx%3D%2250%22%20cy%3D%2250%22%20r%3D%2250%22%20fill%3D%22none%22%20stroke%3D%22%23ededed%22%20stroke-width%3D%223%22/%3E%3C/svg%3E	not found		02.09.2018  10:14:05	
+http://todomvc.com/examples/typescript-react/node_modules/todomvc-app-css/index.css	data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2240%22%20height%3D%2240%22%20viewBox%3D%22-10%20-18%20100%20135%22%3E%3Ccircle%20cx%3D%2250%22%20cy%3D%2250%22%20r%3D%2250%22%20fill%3D%22none%22%20stroke%3D%22%23ededed%22%20stroke-width%3D%223%22/%3E%3C/svg%3E	not found		02.09.2018  10:14:05	
+http://todomvc.com/examples/riotjs/node_modules/todomvc-app-css/index.css	data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2240%22%20height%3D%2240%22%20viewBox%3D%22-10%20-18%20100%20135%22%3E%3Ccircle%20cx%3D%2250%22%20cy%3D%2250%22%20r%3D%2250%22%20fill%3D%22none%22%20stroke%3D%22%23ededed%22%20stroke-width%3D%223%22/%3E%3C/svg%3E	not found		02.09.2018  10:14:05	
+http://todomvc.com/examples/angularjs_require/node_modules/todomvc-app-css/index.css	data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2240%22%20height%3D%2240%22%20viewBox%3D%22-10%20-18%20100%20135%22%3E%3Ccircle%20cx%3D%2250%22%20cy%3D%2250%22%20r%3D%2250%22%20fill%3D%22none%22%20stroke%3D%22%23ededed%22%20stroke-width%3D%223%22/%3E%3C/svg%3E	not found		02.09.2018  10:14:05	
+http://todomvc.com/examples/vanilladart/node_modules/todomvc-app-css/index.css	data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2240%22%20height%3D%2240%22%20viewBox%3D%22-10%20-18%20100%20135%22%3E%3Ccircle%20cx%3D%2250%22%20cy%3D%2250%22%20r%3D%2250%22%20fill%3D%22none%22%20stroke%3D%22%23ededed%22%20stroke-width%3D%223%22/%3E%3C/svg%3E	not found		02.09.2018  10:14:05	
+http://todomvc.com/examples/kotlin-react/index.css	data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2240%22%20height%3D%2240%22%20viewBox%3D%22-10%20-18%20100%20135%22%3E%3Ccircle%20cx%3D%2250%22%20cy%3D%2250%22%20r%3D%2250%22%20fill%3D%22none%22%20stroke%3D%22%23ededed%22%20stroke-width%3D%223%22/%3E%3C/svg%3E	not found		02.09.2018  10:14:05	
+http://todomvc.com/examples/typescript-backbone/node_modules/todomvc-app-css/index.css	data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2240%22%20height%3D%2240%22%20viewBox%3D%22-10%20-18%20100%20135%22%3E%3Ccircle%20cx%3D%2250%22%20cy%3D%2250%22%20r%3D%2250%22%20fill%3D%22none%22%20stroke%3D%22%23ededed%22%20stroke-width%3D%223%22/%3E%3C/svg%3E	not found		02.09.2018  10:14:05	
+http://todomvc.com/examples/knockback/node_modules/todomvc-app-css/index.css	data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2240%22%20height%3D%2240%22%20viewBox%3D%22-10%20-18%20100%20135%22%3E%3Ccircle%20cx%3D%2250%22%20cy%3D%2250%22%20r%3D%2250%22%20fill%3D%22none%22%20stroke%3D%22%23ededed%22%20stroke-width%3D%223%22/%3E%3C/svg%3E	not found		02.09.2018  10:14:05	
+http://todomvc.com/examples/elm/node_modules/todomvc-app-css/index.css	data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2240%22%20height%3D%2240%22%20viewBox%3D%22-10%20-18%20100%20135%22%3E%3Ccircle%20cx%3D%2250%22%20cy%3D%2250%22%20r%3D%2250%22%20fill%3D%22none%22%20stroke%3D%22%23ededed%22%20stroke-width%3D%223%22/%3E%3C/svg%3E	not found		02.09.2018  10:14:05	
+http://todomvc.com/examples/enyo_backbone/node_modules/todomvc-app-css/index.css	data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2240%22%20height%3D%2240%22%20viewBox%3D%22-10%20-18%20100%20135%22%3E%3Ccircle%20cx%3D%2250%22%20cy%3D%2250%22%20r%3D%2250%22%20fill%3D%22none%22%20stroke%3D%22%23ededed%22%20stroke-width%3D%223%22/%3E%3C/svg%3E	not found		02.09.2018  10:14:05	
+http://todomvc.com/examples/scalajs-react/node_modules/todomvc-app-css/index.css	data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2240%22%20height%3D%2240%22%20viewBox%3D%22-10%20-18%20100%20135%22%3E%3Ccircle%20cx%3D%2250%22%20cy%3D%2250%22%20r%3D%2250%22%20fill%3D%22none%22%20stroke%3D%22%23ededed%22%20stroke-width%3D%223%22/%3E%3C/svg%3E	not found		02.09.2018  10:14:05	
+http://todomvc.com/examples/js_of_ocaml/node_modules/todomvc-app-css/index.css	data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2240%22%20height%3D%2240%22%20viewBox%3D%22-10%20-18%20100%20135%22%3E%3Ccircle%20cx%3D%2250%22%20cy%3D%2250%22%20r%3D%2250%22%20fill%3D%22none%22%20stroke%3D%22%23ededed%22%20stroke-width%3D%223%22/%3E%3C/svg%3E	not found		02.09.2018  10:14:05	
+http://todomvc.com/examples/dijon/node_modules/todomvc-app-css/index.css	data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2240%22%20height%3D%2240%22%20viewBox%3D%22-10%20-18%20100%20135%22%3E%3Ccircle%20cx%3D%2250%22%20cy%3D%2250%22%20r%3D%2250%22%20fill%3D%22none%22%20stroke%3D%22%23ededed%22%20stroke-width%3D%223%22/%3E%3C/svg%3E	not found		02.09.2018  10:14:05	
+http://todomvc.com/examples/ractive/node_modules/todomvc-app-css/index.css	data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2240%22%20height%3D%2240%22%20viewBox%3D%22-10%20-18%20100%20135%22%3E%3Ccircle%20cx%3D%2250%22%20cy%3D%2250%22%20r%3D%2250%22%20fill%3D%22none%22%20stroke%3D%22%23ededed%22%20stroke-width%3D%223%22/%3E%3C/svg%3E	not found		02.09.2018  10:14:05	
+http://todomvc.com/examples/binding-scala/node_modules/todomvc-app-css/index.css	data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2240%22%20height%3D%2240%22%20viewBox%3D%22-10%20-18%20100%20135%22%3E%3Ccircle%20cx%3D%2250%22%20cy%3D%2250%22%20r%3D%2250%22%20fill%3D%22none%22%20stroke%3D%22%23ededed%22%20stroke-width%3D%223%22/%3E%3C/svg%3E	not found		02.09.2018  10:14:05	
+http://todomvc.com/examples/exoskeleton/node_modules/todomvc-app-css/index.css	data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2240%22%20height%3D%2240%22%20viewBox%3D%22-10%20-18%20100%20135%22%3E%3Ccircle%20cx%3D%2250%22%20cy%3D%2250%22%20r%3D%2250%22%20fill%3D%22none%22%20stroke%3D%22%23ededed%22%20stroke-width%3D%223%22/%3E%3C/svg%3E	not found		02.09.2018  10:14:05	
+http://todomvc.com/examples/react-alt/node_modules/todomvc-app-css/index.css	data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2240%22%20height%3D%2240%22%20viewBox%3D%22-10%20-18%20100%20135%22%3E%3Ccircle%20cx%3D%2250%22%20cy%3D%2250%22%20r%3D%2250%22%20fill%3D%22none%22%20stroke%3D%22%23ededed%22%20stroke-width%3D%223%22/%3E%3C/svg%3E	not found		02.09.2018  10:14:05	
+http://todomvc.com/examples/jsblocks/node_modules/todomvc-app-css/index.css	data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2240%22%20height%3D%2240%22%20viewBox%3D%22-10%20-18%20100%20135%22%3E%3Ccircle%20cx%3D%2250%22%20cy%3D%2250%22%20r%3D%2250%22%20fill%3D%22none%22%20stroke%3D%22%23ededed%22%20stroke-width%3D%223%22/%3E%3C/svg%3E	not found		02.09.2018  10:14:05	
+http://todomvc.com/examples/angularjs/node_modules/todomvc-app-css/index.css	data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2240%22%20height%3D%2240%22%20viewBox%3D%22-10%20-18%20100%20135%22%3E%3Ccircle%20cx%3D%2250%22%20cy%3D%2250%22%20r%3D%2250%22%20fill%3D%22none%22%20stroke%3D%22%23bddad5%22%20stroke-width%3D%223%22/%3E%3Cpath%20fill%3D%22%235dc2af%22%20d%3D%22M72%2025L42%2071%2027%2056l-4%204%2020%2020%2034-52z%22/%3E%3C/svg%3E	not found		02.09.2018  10:14:05	
+http://todomvc.com/examples/backbone_marionette/node_modules/todomvc-app-css/index.css	data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2240%22%20height%3D%2240%22%20viewBox%3D%22-10%20-18%20100%20135%22%3E%3Ccircle%20cx%3D%2250%22%20cy%3D%2250%22%20r%3D%2250%22%20fill%3D%22none%22%20stroke%3D%22%23bddad5%22%20stroke-width%3D%223%22/%3E%3Cpath%20fill%3D%22%235dc2af%22%20d%3D%22M72%2025L42%2071%2027%2056l-4%204%2020%2020%2034-52z%22/%3E%3C/svg%3E	not found		02.09.2018  10:14:05	
+http://todomvc.com/examples/vanillajs/node_modules/todomvc-app-css/index.css	data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2240%22%20height%3D%2240%22%20viewBox%3D%22-10%20-18%20100%20135%22%3E%3Ccircle%20cx%3D%2250%22%20cy%3D%2250%22%20r%3D%2250%22%20fill%3D%22none%22%20stroke%3D%22%23bddad5%22%20stroke-width%3D%223%22/%3E%3Cpath%20fill%3D%22%235dc2af%22%20d%3D%22M72%2025L42%2071%2027%2056l-4%204%2020%2020%2034-52z%22/%3E%3C/svg%3E	not found		02.09.2018  10:14:05	
+http://todomvc.com/examples/backbone_require/node_modules/todomvc-app-css/index.css	data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2240%22%20height%3D%2240%22%20viewBox%3D%22-10%20-18%20100%20135%22%3E%3Ccircle%20cx%3D%2250%22%20cy%3D%2250%22%20r%3D%2250%22%20fill%3D%22none%22%20stroke%3D%22%23bddad5%22%20stroke-width%3D%223%22/%3E%3Cpath%20fill%3D%22%235dc2af%22%20d%3D%22M72%2025L42%2071%2027%2056l-4%204%2020%2020%2034-52z%22/%3E%3C/svg%3E	not found		02.09.2018  10:14:05	
+http://todomvc.com/examples/mithril/node_modules/todomvc-app-css/index.css	data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2240%22%20height%3D%2240%22%20viewBox%3D%22-10%20-18%20100%20135%22%3E%3Ccircle%20cx%3D%2250%22%20cy%3D%2250%22%20r%3D%2250%22%20fill%3D%22none%22%20stroke%3D%22%23bddad5%22%20stroke-width%3D%223%22/%3E%3Cpath%20fill%3D%22%235dc2af%22%20d%3D%22M72%2025L42%2071%2027%2056l-4%204%2020%2020%2034-52z%22/%3E%3C/svg%3E	not found		02.09.2018  10:14:05	
+http://todomvc.com/examples/firebase-angular/node_modules/todomvc-app-css/index.css	data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2240%22%20height%3D%2240%22%20viewBox%3D%22-10%20-18%20100%20135%22%3E%3Ccircle%20cx%3D%2250%22%20cy%3D%2250%22%20r%3D%2250%22%20fill%3D%22none%22%20stroke%3D%22%23bddad5%22%20stroke-width%3D%223%22/%3E%3Cpath%20fill%3D%22%235dc2af%22%20d%3D%22M72%2025L42%2071%2027%2056l-4%204%2020%2020%2034-52z%22/%3E%3C/svg%3E	not found		02.09.2018  10:14:05	
+http://todomvc.com/examples/react-backbone/node_modules/todomvc-app-css/index.css	data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2240%22%20height%3D%2240%22%20viewBox%3D%22-10%20-18%20100%20135%22%3E%3Ccircle%20cx%3D%2250%22%20cy%3D%2250%22%20r%3D%2250%22%20fill%3D%22none%22%20stroke%3D%22%23bddad5%22%20stroke-width%3D%223%22/%3E%3Cpath%20fill%3D%22%235dc2af%22%20d%3D%22M72%2025L42%2071%2027%2056l-4%204%2020%2020%2034-52z%22/%3E%3C/svg%3E	not found		02.09.2018  10:14:05	
+http://todomvc.com/examples/backbone/node_modules/todomvc-app-css/index.css	data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2240%22%20height%3D%2240%22%20viewBox%3D%22-10%20-18%20100%20135%22%3E%3Ccircle%20cx%3D%2250%22%20cy%3D%2250%22%20r%3D%2250%22%20fill%3D%22none%22%20stroke%3D%22%23bddad5%22%20stroke-width%3D%223%22/%3E%3Cpath%20fill%3D%22%235dc2af%22%20d%3D%22M72%2025L42%2071%2027%2056l-4%204%2020%2020%2034-52z%22/%3E%3C/svg%3E	not found		02.09.2018  10:14:05	
+http://todomvc.com/examples/reagent/node_modules/todomvc-app-css/index.css	data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2240%22%20height%3D%2240%22%20viewBox%3D%22-10%20-18%20100%20135%22%3E%3Ccircle%20cx%3D%2250%22%20cy%3D%2250%22%20r%3D%2250%22%20fill%3D%22none%22%20stroke%3D%22%23bddad5%22%20stroke-width%3D%223%22/%3E%3Cpath%20fill%3D%22%235dc2af%22%20d%3D%22M72%2025L42%2071%2027%2056l-4%204%2020%2020%2034-52z%22/%3E%3C/svg%3E	not found		02.09.2018  10:14:05	
+http://todomvc.com/examples/vue/node_modules/todomvc-app-css/index.css	data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2240%22%20height%3D%2240%22%20viewBox%3D%22-10%20-18%20100%20135%22%3E%3Ccircle%20cx%3D%2250%22%20cy%3D%2250%22%20r%3D%2250%22%20fill%3D%22none%22%20stroke%3D%22%23bddad5%22%20stroke-width%3D%223%22/%3E%3Cpath%20fill%3D%22%235dc2af%22%20d%3D%22M72%2025L42%2071%2027%2056l-4%204%2020%2020%2034-52z%22/%3E%3C/svg%3E	not found		02.09.2018  10:14:05	
+http://todomvc.com/examples/lavaca_require/node_modules/todomvc-app-css/index.css	data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2240%22%20height%3D%2240%22%20viewBox%3D%22-10%20-18%20100%20135%22%3E%3Ccircle%20cx%3D%2250%22%20cy%3D%2250%22%20r%3D%2250%22%20fill%3D%22none%22%20stroke%3D%22%23bddad5%22%20stroke-width%3D%223%22/%3E%3Cpath%20fill%3D%22%235dc2af%22%20d%3D%22M72%2025L42%2071%2027%2056l-4%204%2020%2020%2034-52z%22/%3E%3C/svg%3E	not found		02.09.2018  10:14:05	
+http://todomvc.com/examples/react/node_modules/todomvc-app-css/index.css	data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2240%22%20height%3D%2240%22%20viewBox%3D%22-10%20-18%20100%20135%22%3E%3Ccircle%20cx%3D%2250%22%20cy%3D%2250%22%20r%3D%2250%22%20fill%3D%22none%22%20stroke%3D%22%23bddad5%22%20stroke-width%3D%223%22/%3E%3Cpath%20fill%3D%22%235dc2af%22%20d%3D%22M72%2025L42%2071%2027%2056l-4%204%2020%2020%2034-52z%22/%3E%3C/svg%3E	not found		02.09.2018  10:14:05	
+http://todomvc.com/examples/polymer/bower_components/todomvc-app-css/index.css	data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2240%22%20height%3D%2240%22%20viewBox%3D%22-10%20-18%20100%20135%22%3E%3Ccircle%20cx%3D%2250%22%20cy%3D%2250%22%20r%3D%2250%22%20fill%3D%22none%22%20stroke%3D%22%23bddad5%22%20stroke-width%3D%223%22/%3E%3Cpath%20fill%3D%22%235dc2af%22%20d%3D%22M72%2025L42%2071%2027%2056l-4%204%2020%2020%2034-52z%22/%3E%3C/svg%3E	not found		02.09.2018  10:14:05	
+http://todomvc.com/examples/knockoutjs/node_modules/todomvc-app-css/index.css	data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2240%22%20height%3D%2240%22%20viewBox%3D%22-10%20-18%20100%20135%22%3E%3Ccircle%20cx%3D%2250%22%20cy%3D%2250%22%20r%3D%2250%22%20fill%3D%22none%22%20stroke%3D%22%23bddad5%22%20stroke-width%3D%223%22/%3E%3Cpath%20fill%3D%22%235dc2af%22%20d%3D%22M72%2025L42%2071%2027%2056l-4%204%2020%2020%2034-52z%22/%3E%3C/svg%3E	not found		02.09.2018  10:14:05	
+http://todomvc.com/examples/spine/node_modules/todomvc-app-css/index.css	data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2240%22%20height%3D%2240%22%20viewBox%3D%22-10%20-18%20100%20135%22%3E%3Ccircle%20cx%3D%2250%22%20cy%3D%2250%22%20r%3D%2250%22%20fill%3D%22none%22%20stroke%3D%22%23bddad5%22%20stroke-width%3D%223%22/%3E%3Cpath%20fill%3D%22%235dc2af%22%20d%3D%22M72%2025L42%2071%2027%2056l-4%204%2020%2020%2034-52z%22/%3E%3C/svg%3E	not found		02.09.2018  10:14:05	
+http://todomvc.com/examples/jquery/node_modules/todomvc-app-css/index.css	data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2240%22%20height%3D%2240%22%20viewBox%3D%22-10%20-18%20100%20135%22%3E%3Ccircle%20cx%3D%2250%22%20cy%3D%2250%22%20r%3D%2250%22%20fill%3D%22none%22%20stroke%3D%22%23bddad5%22%20stroke-width%3D%223%22/%3E%3Cpath%20fill%3D%22%235dc2af%22%20d%3D%22M72%2025L42%2071%2027%2056l-4%204%2020%2020%2034-52z%22/%3E%3C/svg%3E	not found		02.09.2018  10:14:05	
+http://todomvc.com/examples/angular-dart/node_modules/todomvc-app-css/index.css	data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2240%22%20height%3D%2240%22%20viewBox%3D%22-10%20-18%20100%20135%22%3E%3Ccircle%20cx%3D%2250%22%20cy%3D%2250%22%20r%3D%2250%22%20fill%3D%22none%22%20stroke%3D%22%23bddad5%22%20stroke-width%3D%223%22/%3E%3Cpath%20fill%3D%22%235dc2af%22%20d%3D%22M72%2025L42%2071%2027%2056l-4%204%2020%2020%2034-52z%22/%3E%3C/svg%3E	not found		02.09.2018  10:14:05	
+http://todomvc.com/examples/typescript-angular/node_modules/todomvc-app-css/index.css	data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2240%22%20height%3D%2240%22%20viewBox%3D%22-10%20-18%20100%20135%22%3E%3Ccircle%20cx%3D%2250%22%20cy%3D%2250%22%20r%3D%2250%22%20fill%3D%22none%22%20stroke%3D%22%23bddad5%22%20stroke-width%3D%223%22/%3E%3Cpath%20fill%3D%22%235dc2af%22%20d%3D%22M72%2025L42%2071%2027%2056l-4%204%2020%2020%2034-52z%22/%3E%3C/svg%3E	not found		02.09.2018  10:14:05	
+http://todomvc.com/examples/angular2/node_modules/todomvc-app-css/index.css	data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2240%22%20height%3D%2240%22%20viewBox%3D%22-10%20-18%20100%20135%22%3E%3Ccircle%20cx%3D%2250%22%20cy%3D%2250%22%20r%3D%2250%22%20fill%3D%22none%22%20stroke%3D%22%23bddad5%22%20stroke-width%3D%223%22/%3E%3Cpath%20fill%3D%22%235dc2af%22%20d%3D%22M72%2025L42%2071%2027%2056l-4%204%2020%2020%2034-52z%22/%3E%3C/svg%3E	not found		02.09.2018  10:14:05	
+http://todomvc.com/examples/vanilla-es6/node_modules/todomvc-app-css/index.css	data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2240%22%20height%3D%2240%22%20viewBox%3D%22-10%20-18%20100%20135%22%3E%3Ccircle%20cx%3D%2250%22%20cy%3D%2250%22%20r%3D%2250%22%20fill%3D%22none%22%20stroke%3D%22%23bddad5%22%20stroke-width%3D%223%22/%3E%3Cpath%20fill%3D%22%235dc2af%22%20d%3D%22M72%2025L42%2071%2027%2056l-4%204%2020%2020%2034-52z%22/%3E%3C/svg%3E	not found		02.09.2018  10:14:05	
+http://todomvc.com/examples/canjs_require/node_modules/todomvc-app-css/index.css	data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2240%22%20height%3D%2240%22%20viewBox%3D%22-10%20-18%20100%20135%22%3E%3Ccircle%20cx%3D%2250%22%20cy%3D%2250%22%20r%3D%2250%22%20fill%3D%22none%22%20stroke%3D%22%23bddad5%22%20stroke-width%3D%223%22/%3E%3Cpath%20fill%3D%22%235dc2af%22%20d%3D%22M72%2025L42%2071%2027%2056l-4%204%2020%2020%2034-52z%22/%3E%3C/svg%3E	not found		02.09.2018  10:14:05	
+http://todomvc.com/examples/dojo/node_modules/todomvc-app-css/index.css	data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2240%22%20height%3D%2240%22%20viewBox%3D%22-10%20-18%20100%20135%22%3E%3Ccircle%20cx%3D%2250%22%20cy%3D%2250%22%20r%3D%2250%22%20fill%3D%22none%22%20stroke%3D%22%23bddad5%22%20stroke-width%3D%223%22/%3E%3Cpath%20fill%3D%22%235dc2af%22%20d%3D%22M72%2025L42%2071%2027%2056l-4%204%2020%2020%2034-52z%22/%3E%3C/svg%3E	not found		02.09.2018  10:14:05	
+http://todomvc.com/examples/canjs/node_modules/todomvc-app-css/index.css	data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2240%22%20height%3D%2240%22%20viewBox%3D%22-10%20-18%20100%20135%22%3E%3Ccircle%20cx%3D%2250%22%20cy%3D%2250%22%20r%3D%2250%22%20fill%3D%22none%22%20stroke%3D%22%23bddad5%22%20stroke-width%3D%223%22/%3E%3Cpath%20fill%3D%22%235dc2af%22%20d%3D%22M72%2025L42%2071%2027%2056l-4%204%2020%2020%2034-52z%22/%3E%3C/svg%3E	not found		02.09.2018  10:14:05	
+http://todomvc.com/examples/knockoutjs_require/node_modules/todomvc-app-css/index.css	data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2240%22%20height%3D%2240%22%20viewBox%3D%22-10%20-18%20100%20135%22%3E%3Ccircle%20cx%3D%2250%22%20cy%3D%2250%22%20r%3D%2250%22%20fill%3D%22none%22%20stroke%3D%22%23bddad5%22%20stroke-width%3D%223%22/%3E%3Cpath%20fill%3D%22%235dc2af%22%20d%3D%22M72%2025L42%2071%2027%2056l-4%204%2020%2020%2034-52z%22/%3E%3C/svg%3E	not found		02.09.2018  10:14:05	
+http://todomvc.com/examples/closure/node_modules/todomvc-app-css/index.css	data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2240%22%20height%3D%2240%22%20viewBox%3D%22-10%20-18%20100%20135%22%3E%3Ccircle%20cx%3D%2250%22%20cy%3D%2250%22%20r%3D%2250%22%20fill%3D%22none%22%20stroke%3D%22%23bddad5%22%20stroke-width%3D%223%22/%3E%3Cpath%20fill%3D%22%235dc2af%22%20d%3D%22M72%2025L42%2071%2027%2056l-4%204%2020%2020%2034-52z%22/%3E%3C/svg%3E	not found		02.09.2018  10:14:05	
+http://todomvc.com/examples/typescript-react/node_modules/todomvc-app-css/index.css	data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2240%22%20height%3D%2240%22%20viewBox%3D%22-10%20-18%20100%20135%22%3E%3Ccircle%20cx%3D%2250%22%20cy%3D%2250%22%20r%3D%2250%22%20fill%3D%22none%22%20stroke%3D%22%23bddad5%22%20stroke-width%3D%223%22/%3E%3Cpath%20fill%3D%22%235dc2af%22%20d%3D%22M72%2025L42%2071%2027%2056l-4%204%2020%2020%2034-52z%22/%3E%3C/svg%3E	not found		02.09.2018  10:14:05	
+http://todomvc.com/examples/riotjs/node_modules/todomvc-app-css/index.css	data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2240%22%20height%3D%2240%22%20viewBox%3D%22-10%20-18%20100%20135%22%3E%3Ccircle%20cx%3D%2250%22%20cy%3D%2250%22%20r%3D%2250%22%20fill%3D%22none%22%20stroke%3D%22%23bddad5%22%20stroke-width%3D%223%22/%3E%3Cpath%20fill%3D%22%235dc2af%22%20d%3D%22M72%2025L42%2071%2027%2056l-4%204%2020%2020%2034-52z%22/%3E%3C/svg%3E	not found		02.09.2018  10:14:05	
+http://todomvc.com/examples/angularjs_require/node_modules/todomvc-app-css/index.css	data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2240%22%20height%3D%2240%22%20viewBox%3D%22-10%20-18%20100%20135%22%3E%3Ccircle%20cx%3D%2250%22%20cy%3D%2250%22%20r%3D%2250%22%20fill%3D%22none%22%20stroke%3D%22%23bddad5%22%20stroke-width%3D%223%22/%3E%3Cpath%20fill%3D%22%235dc2af%22%20d%3D%22M72%2025L42%2071%2027%2056l-4%204%2020%2020%2034-52z%22/%3E%3C/svg%3E	not found		02.09.2018  10:14:05	
+http://todomvc.com/examples/vanilladart/node_modules/todomvc-app-css/index.css	data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2240%22%20height%3D%2240%22%20viewBox%3D%22-10%20-18%20100%20135%22%3E%3Ccircle%20cx%3D%2250%22%20cy%3D%2250%22%20r%3D%2250%22%20fill%3D%22none%22%20stroke%3D%22%23bddad5%22%20stroke-width%3D%223%22/%3E%3Cpath%20fill%3D%22%235dc2af%22%20d%3D%22M72%2025L42%2071%2027%2056l-4%204%2020%2020%2034-52z%22/%3E%3C/svg%3E	not found		02.09.2018  10:14:05	
+http://todomvc.com/examples/kotlin-react/index.css	data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2240%22%20height%3D%2240%22%20viewBox%3D%22-10%20-18%20100%20135%22%3E%3Ccircle%20cx%3D%2250%22%20cy%3D%2250%22%20r%3D%2250%22%20fill%3D%22none%22%20stroke%3D%22%23bddad5%22%20stroke-width%3D%223%22/%3E%3Cpath%20fill%3D%22%235dc2af%22%20d%3D%22M72%2025L42%2071%2027%2056l-4%204%2020%2020%2034-52z%22/%3E%3C/svg%3E	not found		02.09.2018  10:14:05	
+http://todomvc.com/examples/typescript-backbone/node_modules/todomvc-app-css/index.css	data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2240%22%20height%3D%2240%22%20viewBox%3D%22-10%20-18%20100%20135%22%3E%3Ccircle%20cx%3D%2250%22%20cy%3D%2250%22%20r%3D%2250%22%20fill%3D%22none%22%20stroke%3D%22%23bddad5%22%20stroke-width%3D%223%22/%3E%3Cpath%20fill%3D%22%235dc2af%22%20d%3D%22M72%2025L42%2071%2027%2056l-4%204%2020%2020%2034-52z%22/%3E%3C/svg%3E	not found		02.09.2018  10:14:05	
+http://todomvc.com/examples/knockback/node_modules/todomvc-app-css/index.css	data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2240%22%20height%3D%2240%22%20viewBox%3D%22-10%20-18%20100%20135%22%3E%3Ccircle%20cx%3D%2250%22%20cy%3D%2250%22%20r%3D%2250%22%20fill%3D%22none%22%20stroke%3D%22%23bddad5%22%20stroke-width%3D%223%22/%3E%3Cpath%20fill%3D%22%235dc2af%22%20d%3D%22M72%2025L42%2071%2027%2056l-4%204%2020%2020%2034-52z%22/%3E%3C/svg%3E	not found		02.09.2018  10:14:05	
+http://todomvc.com/examples/elm/node_modules/todomvc-app-css/index.css	data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2240%22%20height%3D%2240%22%20viewBox%3D%22-10%20-18%20100%20135%22%3E%3Ccircle%20cx%3D%2250%22%20cy%3D%2250%22%20r%3D%2250%22%20fill%3D%22none%22%20stroke%3D%22%23bddad5%22%20stroke-width%3D%223%22/%3E%3Cpath%20fill%3D%22%235dc2af%22%20d%3D%22M72%2025L42%2071%2027%2056l-4%204%2020%2020%2034-52z%22/%3E%3C/svg%3E	not found		02.09.2018  10:14:05	
+http://todomvc.com/examples/enyo_backbone/node_modules/todomvc-app-css/index.css	data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2240%22%20height%3D%2240%22%20viewBox%3D%22-10%20-18%20100%20135%22%3E%3Ccircle%20cx%3D%2250%22%20cy%3D%2250%22%20r%3D%2250%22%20fill%3D%22none%22%20stroke%3D%22%23bddad5%22%20stroke-width%3D%223%22/%3E%3Cpath%20fill%3D%22%235dc2af%22%20d%3D%22M72%2025L42%2071%2027%2056l-4%204%2020%2020%2034-52z%22/%3E%3C/svg%3E	not found		02.09.2018  10:14:05	
+http://todomvc.com/examples/scalajs-react/node_modules/todomvc-app-css/index.css	data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2240%22%20height%3D%2240%22%20viewBox%3D%22-10%20-18%20100%20135%22%3E%3Ccircle%20cx%3D%2250%22%20cy%3D%2250%22%20r%3D%2250%22%20fill%3D%22none%22%20stroke%3D%22%23bddad5%22%20stroke-width%3D%223%22/%3E%3Cpath%20fill%3D%22%235dc2af%22%20d%3D%22M72%2025L42%2071%2027%2056l-4%204%2020%2020%2034-52z%22/%3E%3C/svg%3E	not found		02.09.2018  10:14:05	
+http://todomvc.com/examples/js_of_ocaml/node_modules/todomvc-app-css/index.css	data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2240%22%20height%3D%2240%22%20viewBox%3D%22-10%20-18%20100%20135%22%3E%3Ccircle%20cx%3D%2250%22%20cy%3D%2250%22%20r%3D%2250%22%20fill%3D%22none%22%20stroke%3D%22%23bddad5%22%20stroke-width%3D%223%22/%3E%3Cpath%20fill%3D%22%235dc2af%22%20d%3D%22M72%2025L42%2071%2027%2056l-4%204%2020%2020%2034-52z%22/%3E%3C/svg%3E	not found		02.09.2018  10:14:05	
+http://todomvc.com/examples/dijon/node_modules/todomvc-app-css/index.css	data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2240%22%20height%3D%2240%22%20viewBox%3D%22-10%20-18%20100%20135%22%3E%3Ccircle%20cx%3D%2250%22%20cy%3D%2250%22%20r%3D%2250%22%20fill%3D%22none%22%20stroke%3D%22%23bddad5%22%20stroke-width%3D%223%22/%3E%3Cpath%20fill%3D%22%235dc2af%22%20d%3D%22M72%2025L42%2071%2027%2056l-4%204%2020%2020%2034-52z%22/%3E%3C/svg%3E	not found		02.09.2018  10:14:05	
+http://todomvc.com/examples/ractive/node_modules/todomvc-app-css/index.css	data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2240%22%20height%3D%2240%22%20viewBox%3D%22-10%20-18%20100%20135%22%3E%3Ccircle%20cx%3D%2250%22%20cy%3D%2250%22%20r%3D%2250%22%20fill%3D%22none%22%20stroke%3D%22%23bddad5%22%20stroke-width%3D%223%22/%3E%3Cpath%20fill%3D%22%235dc2af%22%20d%3D%22M72%2025L42%2071%2027%2056l-4%204%2020%2020%2034-52z%22/%3E%3C/svg%3E	not found		02.09.2018  10:14:05	
+http://todomvc.com/examples/binding-scala/node_modules/todomvc-app-css/index.css	data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2240%22%20height%3D%2240%22%20viewBox%3D%22-10%20-18%20100%20135%22%3E%3Ccircle%20cx%3D%2250%22%20cy%3D%2250%22%20r%3D%2250%22%20fill%3D%22none%22%20stroke%3D%22%23bddad5%22%20stroke-width%3D%223%22/%3E%3Cpath%20fill%3D%22%235dc2af%22%20d%3D%22M72%2025L42%2071%2027%2056l-4%204%2020%2020%2034-52z%22/%3E%3C/svg%3E	not found		02.09.2018  10:14:05	
+http://todomvc.com/examples/exoskeleton/node_modules/todomvc-app-css/index.css	data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2240%22%20height%3D%2240%22%20viewBox%3D%22-10%20-18%20100%20135%22%3E%3Ccircle%20cx%3D%2250%22%20cy%3D%2250%22%20r%3D%2250%22%20fill%3D%22none%22%20stroke%3D%22%23bddad5%22%20stroke-width%3D%223%22/%3E%3Cpath%20fill%3D%22%235dc2af%22%20d%3D%22M72%2025L42%2071%2027%2056l-4%204%2020%2020%2034-52z%22/%3E%3C/svg%3E	not found		02.09.2018  10:14:05	
+http://todomvc.com/examples/react-alt/node_modules/todomvc-app-css/index.css	data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2240%22%20height%3D%2240%22%20viewBox%3D%22-10%20-18%20100%20135%22%3E%3Ccircle%20cx%3D%2250%22%20cy%3D%2250%22%20r%3D%2250%22%20fill%3D%22none%22%20stroke%3D%22%23bddad5%22%20stroke-width%3D%223%22/%3E%3Cpath%20fill%3D%22%235dc2af%22%20d%3D%22M72%2025L42%2071%2027%2056l-4%204%2020%2020%2034-52z%22/%3E%3C/svg%3E	not found		02.09.2018  10:14:05	
+http://todomvc.com/examples/jsblocks/node_modules/todomvc-app-css/index.css	data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%2240%22%20height%3D%2240%22%20viewBox%3D%22-10%20-18%20100%20135%22%3E%3Ccircle%20cx%3D%2250%22%20cy%3D%2250%22%20r%3D%2250%22%20fill%3D%22none%22%20stroke%3D%22%23bddad5%22%20stroke-width%3D%223%22/%3E%3Cpath%20fill%3D%22%235dc2af%22%20d%3D%22M72%2025L42%2071%2027%2056l-4%204%2020%2020%2034-52z%22/%3E%3C/svg%3E	not found		02.09.2018  10:14:05	
+http://todomvc.com/examples/vanillajs/	http://todomvc.com/examples/vanillajs/node_modules/todomvc-common/base.css	ok		02.09.2018  10:14:05	VanillaJS • TodoMVC
+http://todomvc.com/examples/vanillajs/	http://todomvc.com/examples/vanillajs/node_modules/todomvc-app-css/index.css	ok		02.09.2018  10:14:05	VanillaJS • TodoMVC
+http://todomvc.com/examples/vanillajs/	http://twitter.com/oscargodson	ok	Oscar Godson	02.09.2018  10:14:05	VanillaJS • TodoMVC
+http://todomvc.com/examples/vanillajs/	https://github.com/cburgmer	ok	Christoph Burgmer	02.09.2018  10:14:05	VanillaJS • TodoMVC
+http://todomvc.com/examples/vanillajs/	http://todomvc.com/examples/vanillajs/node_modules/todomvc-common/base.js	ok		02.09.2018  10:14:05	VanillaJS • TodoMVC
+http://todomvc.com/examples/vanillajs/	http://todomvc.com/examples/vanillajs/js/helpers.js	ok		02.09.2018  10:14:05	VanillaJS • TodoMVC
+http://todomvc.com/examples/vanillajs/	http://todomvc.com/examples/vanillajs/js/store.js	ok		02.09.2018  10:14:05	VanillaJS • TodoMVC
+http://todomvc.com/examples/vanillajs/	http://todomvc.com/examples/vanillajs/js/model.js	ok		02.09.2018  10:14:05	VanillaJS • TodoMVC
+http://todomvc.com/examples/vanillajs/	http://todomvc.com/examples/vanillajs/js/template.js	ok		02.09.2018  10:14:05	VanillaJS • TodoMVC
+http://todomvc.com/examples/vanillajs/	http://todomvc.com/examples/vanillajs/js/view.js	ok		02.09.2018  10:14:05	VanillaJS • TodoMVC
+http://todomvc.com/examples/vanillajs/	http://todomvc.com/examples/vanillajs/js/controller.js	ok		02.09.2018  10:14:05	VanillaJS • TodoMVC
+http://todomvc.com/examples/vanillajs/	http://todomvc.com/examples/vanillajs/js/app.js	ok		02.09.2018  10:14:05	VanillaJS • TodoMVC
+http://todomvc.com/examples/typescript-angular	http://todomvc.com/examples/typescript-angular/	ok	Typescript & AngularJS • TodoMVC		TypeScript <br>+ AngularJS
+http://todomvc.com/examples/backbone_require	http://todomvc.com/examples/backbone_require/	ok	Backbone.js + RequireJS • TodoMVC		Backbone.js + RequireJS
+http://github.com/jsoverson	https://github.com/jsoverson	ok	redir		Jarrod Overson
+http://todomvc.com/examples/angularjs_require	http://todomvc.com/examples/angularjs_require/	ok	AngularJS & RequireJS • TodoMVC		AngularJS + RequireJS
+http://github.com/derickbailey	https://github.com/derickbailey	ok	redir		Derick Bailey
+http://todomvc.com/examples/backbone_require/	http://todomvc.com/examples/backbone_require/node_modules/todomvc-common/base.css	ok		02.09.2018  10:14:05	Backbone.js + RequireJS • TodoMVC
+http://todomvc.com/examples/backbone_require/	http://todomvc.com/examples/backbone_require/node_modules/todomvc-app-css/index.css	ok		02.09.2018  10:14:05	Backbone.js + RequireJS • TodoMVC
+http://todomvc.com/examples/backbone_require/	http://todomvc.com/examples/backbone_require/node_modules/todomvc-common/base.js	ok		02.09.2018  10:14:05	Backbone.js + RequireJS • TodoMVC
+http://todomvc.com/examples/backbone_require/	http://todomvc.com/examples/backbone_require/node_modules/requirejs/require.js	ok		02.09.2018  10:14:05	Backbone.js + RequireJS • TodoMVC
+http://todomvc.com/examples/angular2	http://todomvc.com/examples/angular2/	ok	Angular2 • TodoMVC		Angular 2.0
+http://todomvc.com/examples/vue/	http://todomvc.com/examples/vue/node_modules/todomvc-common/base.css	ok		02.09.2018  10:14:05	Vue.js • TodoMVC
+http://todomvc.com/examples/vue/	http://todomvc.com/examples/vue/node_modules/todomvc-app-css/index.css	ok		02.09.2018  10:14:05	Vue.js • TodoMVC
+http://todomvc.com/examples/vue/	http://evanyou.me/	ok	Evan You	02.09.2018  10:14:05	Vue.js • TodoMVC
+http://todomvc.com/examples/vue/	http://todomvc.com/examples/vue/node_modules/todomvc-common/base.js	ok		02.09.2018  10:14:05	Vue.js • TodoMVC
+http://todomvc.com/examples/vue/	http://todomvc.com/examples/vue/node_modules/director/build/director.js	ok		02.09.2018  10:14:05	Vue.js • TodoMVC
+http://todomvc.com/examples/vue/	http://todomvc.com/examples/vue/node_modules/vue/dist/vue.js	ok		02.09.2018  10:14:05	Vue.js • TodoMVC
+http://todomvc.com/examples/vue/	http://todomvc.com/examples/vue/js/store.js	ok		02.09.2018  10:14:05	Vue.js • TodoMVC
+http://todomvc.com/examples/vue/	http://todomvc.com/examples/vue/js/app.js	ok		02.09.2018  10:14:05	Vue.js • TodoMVC
+http://todomvc.com/examples/vue/	http://todomvc.com/examples/vue/js/routes.js	ok		02.09.2018  10:14:05	Vue.js • TodoMVC
+http://todomvc.com/examples/kotlin-react/	http://todomvc.com/manifest.json	not found		02.09.2018  10:14:05	React Kotlin TodoMVC
+http://todomvc.com/examples/kotlin-react/	http://todomvc.com/examples/kotlin-react/favicon.ico	ok		02.09.2018  10:14:05	React Kotlin TodoMVC
+http://todomvc.com/examples/kotlin-react/	http://todomvc.com/examples/kotlin-react/base.css	ok		02.09.2018  10:14:05	React Kotlin TodoMVC
+http://todomvc.com/examples/kotlin-react/	http://todomvc.com/examples/kotlin-react/index.css	ok		02.09.2018  10:14:05	React Kotlin TodoMVC
+http://todomvc.com/examples/kotlin-react/	http://todomvc.com/examples/kotlin-react/app.css	no info to return		02.09.2018  10:14:05	React Kotlin TodoMVC
+http://todomvc.com/examples/kotlin-react/	http://todomvc.com/examples/kotlin-react/static/css/main.13b13b75.css	ok		02.09.2018  10:14:05	React Kotlin TodoMVC
+http://todomvc.com/examples/kotlin-react/	http://todomvc.com/examples/kotlin-react/static/js/main.e307ed0b.js	ok		02.09.2018  10:14:05	React Kotlin TodoMVC
+http://todomvc.com/examples/vanilla-es6	http://todomvc.com/examples/vanilla-es6/	ok	Vanilla ES6 • TodoMVC		Vanilla ES6
+http://todomvc.com/examples/reagent	http://todomvc.com/examples/reagent/	ok	Reagent • TodoMVC		Reagent
+http://todomvc.com/examples/reagent/	http://todomvc.com/examples/reagent/node_modules/todomvc-common/base.css	ok		02.09.2018  10:14:05	Reagent • TodoMVC
+http://todomvc.com/examples/reagent/	http://todomvc.com/examples/reagent/node_modules/todomvc-app-css/index.css	ok		02.09.2018  10:14:05	Reagent • TodoMVC
+http://todomvc.com/examples/reagent/	http://todomvc.com/examples/reagent/node_modules/todomvc-common/base.js	ok		02.09.2018  10:14:05	Reagent • TodoMVC
+http://todomvc.com/examples/reagent/	http://todomvc.com/examples/reagent/js/app.js	ok		02.09.2018  10:14:05	Reagent • TodoMVC
+http://todomvc.com/examples/backbone/	http://todomvc.com/examples/backbone/node_modules/todomvc-common/base.css	ok		02.09.2018  10:14:05	Backbone.js • TodoMVC
+http://todomvc.com/examples/backbone/	http://todomvc.com/examples/backbone/node_modules/todomvc-app-css/index.css	ok		02.09.2018  10:14:05	Backbone.js • TodoMVC
+http://todomvc.com/examples/backbone/	http://todomvc.com/examples/backbone/node_modules/todomvc-common/base.js	ok		02.09.2018  10:14:05	Backbone.js • TodoMVC
+http://todomvc.com/examples/backbone/	http://todomvc.com/examples/backbone/node_modules/jquery/dist/jquery.js	ok		02.09.2018  10:14:05	Backbone.js • TodoMVC
+http://todomvc.com/examples/backbone/	http://todomvc.com/examples/backbone/node_modules/underscore/underscore.js	ok		02.09.2018  10:14:05	Backbone.js • TodoMVC
+http://todomvc.com/examples/backbone/	http://todomvc.com/examples/backbone/node_modules/backbone/backbone.js	ok		02.09.2018  10:14:05	Backbone.js • TodoMVC
+http://todomvc.com/examples/backbone/	http://todomvc.com/examples/backbone/node_modules/backbone.localstorage/backbone.localStorage.js	ok		02.09.2018  10:14:05	Backbone.js • TodoMVC
+http://todomvc.com/examples/backbone/	http://todomvc.com/examples/backbone/js/models/todo.js	ok		02.09.2018  10:14:05	Backbone.js • TodoMVC
+http://todomvc.com/examples/backbone/	http://todomvc.com/examples/backbone/js/collections/todos.js	ok		02.09.2018  10:14:05	Backbone.js • TodoMVC
+http://todomvc.com/examples/backbone/	http://todomvc.com/examples/backbone/js/views/todo-view.js	ok		02.09.2018  10:14:05	Backbone.js • TodoMVC
+http://todomvc.com/examples/backbone/	http://todomvc.com/examples/backbone/js/views/app-view.js	ok		02.09.2018  10:14:05	Backbone.js • TodoMVC
+http://todomvc.com/examples/backbone/	http://todomvc.com/examples/backbone/js/routers/router.js	ok		02.09.2018  10:14:05	Backbone.js • TodoMVC
+http://todomvc.com/examples/backbone/	http://todomvc.com/examples/backbone/js/app.js	ok		02.09.2018  10:14:05	Backbone.js • TodoMVC
+http://todomvc.com/examples/mithril/	http://todomvc.com/examples/mithril/node_modules/todomvc-common/base.css	ok		02.09.2018  10:14:05	Mithril • TodoMVC
+http://todomvc.com/examples/mithril/	http://todomvc.com/examples/mithril/node_modules/todomvc-app-css/index.css	ok		02.09.2018  10:14:05	Mithril • TodoMVC
+http://todomvc.com/examples/mithril/	http://taylorhakes.com/	ok	Taylor Hakes	02.09.2018  10:14:05	Mithril • TodoMVC
+http://todomvc.com/examples/mithril/	http://blogue.jpmonette.net/	ok	Jean-Philippe Monette	02.09.2018  10:14:05	Mithril • TodoMVC
+http://todomvc.com/examples/mithril/	https://github.com/lhorie/	ok	Leo Horie	02.09.2018  10:14:05	Mithril • TodoMVC
+http://todomvc.com/examples/mithril/	http://todomvc.com/examples/mithril/node_modules/todomvc-common/base.js	ok		02.09.2018  10:14:05	Mithril • TodoMVC
+http://todomvc.com/examples/mithril/	http://todomvc.com/examples/mithril/node_modules/mithril/mithril.js	ok		02.09.2018  10:14:05	Mithril • TodoMVC
+http://todomvc.com/examples/mithril/	http://todomvc.com/examples/mithril/js/models/todo.js	ok		02.09.2018  10:14:05	Mithril • TodoMVC
+http://todomvc.com/examples/mithril/	http://todomvc.com/examples/mithril/js/models/storage.js	ok		02.09.2018  10:14:05	Mithril • TodoMVC
+http://todomvc.com/examples/mithril/	http://todomvc.com/examples/mithril/js/controllers/todo.js	ok		02.09.2018  10:14:05	Mithril • TodoMVC
+http://todomvc.com/examples/mithril/	http://todomvc.com/examples/mithril/js/views/main-view.js	ok		02.09.2018  10:14:05	Mithril • TodoMVC
+http://todomvc.com/examples/mithril/	http://todomvc.com/examples/mithril/js/views/footer-view.js	ok		02.09.2018  10:14:05	Mithril • TodoMVC
+http://todomvc.com/examples/mithril/	http://todomvc.com/examples/mithril/js/app.js	ok		02.09.2018  10:14:05	Mithril • TodoMVC
+http://todomvc.com/examples/aurelia	http://todomvc.com/examples/aurelia/	ok	Aurelia • TodoMVC		Aurelia
+http://todomvc.com/examples/jquery	http://todomvc.com/examples/jquery/	ok	jQuery • TodoMVC		jQuery
+https://coding.smashingmagazine.com/2012/07/journey-through-the-javascript-mvc-jungle	https://www.smashingmagazine.com/2012/07/journey-through-the-javascript-mvc-jungle	ok	redir		redir
+http://todomvc.com/examples/riotjs	http://todomvc.com/examples/riotjs/	ok	Riot.js • TodoMVC		Riot
+http://todomvc.com/examples/kendo/	http://todomvc.com/examples/kendo/bower_components/todomvc-common/base.css	ok		02.09.2018  10:14:05	Kendo UI • TodoMVC
+http://todomvc.com/examples/kendo/	https://github.com/bsatrom	ok	Brandon Satrom	02.09.2018  10:14:05	Kendo UI • TodoMVC
+http://todomvc.com/examples/kendo/	https://github.com/burkeholland	ok	Burke Holland	02.09.2018  10:14:05	Kendo UI • TodoMVC
+http://todomvc.com/examples/kendo/	https://github.com/akorchev	ok	Atanas Korchev	02.09.2018  10:14:05	Kendo UI • TodoMVC
+http://todomvc.com/examples/kendo/	http://todomvc.com/examples/kendo/bower_components/todomvc-common/base.js	ok		02.09.2018  10:14:05	Kendo UI • TodoMVC
+http://todomvc.com/examples/kendo/	http://todomvc.com/examples/kendo/bower_components/jquery/jquery.js	ok		02.09.2018  10:14:05	Kendo UI • TodoMVC
+http://todomvc.com/examples/kendo/	http://todomvc.com/examples/kendo/bower_components/kendo-ui/src/js/kendo.core.js	ok		02.09.2018  10:14:05	Kendo UI • TodoMVC
+http://todomvc.com/examples/kendo/	http://todomvc.com/examples/kendo/bower_components/kendo-ui/src/js/kendo.data.js	ok		02.09.2018  10:14:05	Kendo UI • TodoMVC
+http://todomvc.com/examples/kendo/	http://todomvc.com/examples/kendo/bower_components/kendo-ui/src/js/kendo.binder.js	ok		02.09.2018  10:14:05	Kendo UI • TodoMVC
+http://todomvc.com/examples/kendo/	http://todomvc.com/examples/kendo/bower_components/kendo-ui/src/js/kendo.router.js	ok		02.09.2018  10:14:05	Kendo UI • TodoMVC
+http://todomvc.com/examples/kendo/	http://todomvc.com/examples/kendo/js/lib/kendo.bindings.custom.js	ok		02.09.2018  10:14:05	Kendo UI • TodoMVC
+http://todomvc.com/examples/kendo/	http://todomvc.com/examples/kendo/js/lib/kendo.data.localstoragedatasource.js	ok		02.09.2018  10:14:05	Kendo UI • TodoMVC
+http://todomvc.com/examples/kendo/	http://todomvc.com/examples/kendo/js/app.js	ok		02.09.2018  10:14:05	Kendo UI • TodoMVC
+http://todomvc.com/examples/knockoutjs_require/	http://todomvc.com/examples/knockoutjs_require/node_modules/todomvc-common/base.css	ok		02.09.2018  10:14:05	Knockout.js • TodoMVC
+http://todomvc.com/examples/knockoutjs_require/	http://todomvc.com/examples/knockoutjs_require/node_modules/todomvc-app-css/index.css	ok		02.09.2018  10:14:05	Knockout.js • TodoMVC
+http://todomvc.com/examples/knockoutjs_require/	https://twitter.com/loicknuchel	ok	Loïc Knuchel	02.09.2018  10:14:05	Knockout.js • TodoMVC
+http://todomvc.com/examples/knockoutjs_require/	http://todomvc.com/examples/knockoutjs_require/node_modules/todomvc-common/base.js	ok		02.09.2018  10:14:05	Knockout.js • TodoMVC
+http://todomvc.com/examples/knockoutjs_require/	http://todomvc.com/examples/knockoutjs_require/node_modules/requirejs/require.js	ok		02.09.2018  10:14:05	Knockout.js • TodoMVC
+http://todomvc.com/examples/duel/www	http://todomvc.com/examples/duel/www/	ok	DUEL &bull; TodoMVC		DUEL
+http://twitter.com/oscargodson	https://twitter.com/oscargodson	ok	redir		Oscar Godson
+http://todomvc.com/examples/vanilladart/build/web	http://todomvc.com/examples/vanilladart/build/web/	ok	Dart • TodoMVC		Dart
+http://todomvc.com/examples/lavaca_require	http://todomvc.com/examples/lavaca_require/	ok	Lavaca • TodoMVC		Lavaca + RequireJS
+http://todomvc.com/examples/angular2/	http://todomvc.com/examples/angular2/node_modules/todomvc-common/base.css	ok		02.09.2018  10:14:05	Angular2 • TodoMVC
+http://todomvc.com/examples/angular2/	http://todomvc.com/examples/angular2/node_modules/todomvc-app-css/index.css	ok		02.09.2018  10:14:05	Angular2 • TodoMVC
+http://todomvc.com/examples/angular2/	http://todomvc.com/examples/angular2/node_modules/angular2/bundles/angular2-polyfills.js	ok		02.09.2018  10:14:05	Angular2 • TodoMVC
+http://todomvc.com/examples/angular2/	http://todomvc.com/examples/angular2/node_modules/systemjs/dist/system.src.js	ok		02.09.2018  10:14:05	Angular2 • TodoMVC
+http://todomvc.com/examples/angular2/	http://todomvc.com/examples/angular2/node_modules/rxjs/bundles/Rx.js	ok		02.09.2018  10:14:05	Angular2 • TodoMVC
+http://todomvc.com/examples/angular2/	http://todomvc.com/examples/angular2/node_modules/angular2/bundles/angular2.dev.js	ok		02.09.2018  10:14:05	Angular2 • TodoMVC
+http://todomvc.com/examples/angular2/	http://github.com/samccone	ok	Sam Saccone	02.09.2018  10:14:05	Angular2 • TodoMVC
+http://todomvc.com/examples/angular2/	http://github.com/colineberhardt	ok	Colin Eberhardt	02.09.2018  10:14:05	Angular2 • TodoMVC
+http://todomvc.com/examples/angular2/	http://angular.io/	ok	Angular2	02.09.2018  10:14:05	Angular2 • TodoMVC
+http://angular.io/	https://angular.io/	ok	redir		Angular2
+http://todomvc.com/examples/lavaca_require/	http://todomvc.com/examples/lavaca_require/node_modules/todomvc-common/base.css	ok		02.09.2018  10:14:05	Lavaca • TodoMVC
+http://todomvc.com/examples/lavaca_require/	http://todomvc.com/examples/lavaca_require/node_modules/todomvc-app-css/index.css	ok		02.09.2018  10:14:05	Lavaca • TodoMVC
+http://todomvc.com/examples/lavaca_require/	https://github.com/mutualmobile/	ok	Mutual Mobile	02.09.2018  10:14:05	Lavaca • TodoMVC
+http://todomvc.com/examples/lavaca_require/	http://todomvc.com/examples/lavaca_require/node_modules/todomvc-common/base.js	ok		02.09.2018  10:14:05	Lavaca • TodoMVC
+http://todomvc.com/examples/lavaca_require/	http://todomvc.com/examples/lavaca_require/node_modules/requirejs/require.js	ok		02.09.2018  10:14:05	Lavaca • TodoMVC
+http://todomvc.com/examples/lavaca_require/	http://todomvc.com/examples/lavaca_require/js/libs/lavaca.js	ok		02.09.2018  10:14:05	Lavaca • TodoMVC
+http://todomvc.com/examples/lavaca_require/	http://todomvc.com/examples/lavaca_require/js/app/boot.js	ok		02.09.2018  10:14:05	Lavaca • TodoMVC
+http://todomvc.com/examples/jsblocks	http://todomvc.com/examples/jsblocks/	ok	jsblocks • TodoMVC		JSBlocks
+http://todomvc.com/examples/sapui5/	https://sapui5.hana.ondemand.com/resources/sap-ui-core.js	ok		02.09.2018  10:14:05	SAPUI5 • TodoMVC
+http://todomvc.com/examples/sapui5/	http://todomvc.com/examples/sapui5/css/base.css	ok		02.09.2018  10:14:05	SAPUI5 • TodoMVC
+http://todomvc.com/examples/sapui5/	http://todomvc.com/examples/sapui5/bower_components/todomvc-common/base.js	ok		02.09.2018  10:14:05	SAPUI5 • TodoMVC
+http://todomvc.com/examples/sapui5/	http://todomvc.com/examples/sapui5/js/app.js	ok		02.09.2018  10:14:05	SAPUI5 • TodoMVC
+http://todomvc.com/examples/kendo/bower_components/todomvc-common/base.css	http://todomvc.com/examples/kendo/bower_components/todomvc-common/bg.png	ok		02.09.2018  10:14:05	
+http://todomvc.com/examples/aurelia/	http://todomvc.com/examples/aurelia/jspm_packages/npm/todomvc-common@1.0.2/base.css	ok		02.09.2018  10:14:05	Aurelia • TodoMVC
+http://todomvc.com/examples/aurelia/	http://todomvc.com/examples/aurelia/jspm_packages/npm/todomvc-app-css@2.0.4/index.css	ok		02.09.2018  10:14:05	Aurelia • TodoMVC
+http://todomvc.com/examples/aurelia/	http://marcelhoyer.de/	ok	Marcel Hoyer	02.09.2018  10:14:05	Aurelia • TodoMVC
+http://todomvc.com/examples/aurelia/	http://todomvc.com/examples/aurelia/jspm_packages/npm/todomvc-common@1.0.2/base.js	ok		02.09.2018  10:14:05	Aurelia • TodoMVC
+http://todomvc.com/examples/aurelia/	http://todomvc.com/examples/aurelia/jspm_packages/system.js	ok		02.09.2018  10:14:05	Aurelia • TodoMVC
+http://todomvc.com/examples/aurelia/	http://todomvc.com/examples/aurelia/config.js	ok		02.09.2018  10:14:05	Aurelia • TodoMVC
+http://todomvc.com/examples/spine	http://todomvc.com/examples/spine/	ok	Spine.js • TodoMVC		Spine
+http://todomvc.com/examples/polymer/elements/elements.build.html	http://todomvc.com/examples/polymer/elements/elements.build.js	ok		02.09.2018  10:14:05	
+http://todomvc.com/examples/canjs/	http://todomvc.com/examples/canjs/node_modules/todomvc-common/base.css	ok		02.09.2018  10:14:05	CanJS • TodoMVC
+http://todomvc.com/examples/canjs/	http://todomvc.com/examples/canjs/node_modules/todomvc-app-css/index.css	ok		02.09.2018  10:14:05	CanJS • TodoMVC
+http://todomvc.com/examples/canjs/	http://bitovi.com/	ok	Bitovi	02.09.2018  10:14:05	CanJS • TodoMVC
+http://todomvc.com/examples/canjs_require/	http://bitovi.com/	ok	Bitovi	02.09.2018  10:14:05	CanJS + RequireJS • TodoMVC
+http://todomvc.com/examples/canjs/	http://todomvc.com/examples/canjs/node_modules/todomvc-common/base.js	ok		02.09.2018  10:14:05	CanJS • TodoMVC
+http://todomvc.com/examples/canjs/	http://todomvc.com/examples/canjs/node_modules/jquery/dist/jquery.js	ok		02.09.2018  10:14:05	CanJS • TodoMVC
+http://todomvc.com/examples/canjs/	http://todomvc.com/examples/canjs/node_modules/canjs/can.jquery.js	ok		02.09.2018  10:14:05	CanJS • TodoMVC
+http://todomvc.com/examples/canjs/	http://todomvc.com/examples/canjs/node_modules/canjs-localstorage/can.localstorage.js	ok		02.09.2018  10:14:05	CanJS • TodoMVC
+http://todomvc.com/examples/canjs/	http://todomvc.com/examples/canjs/js/models/todo.js	ok		02.09.2018  10:14:05	CanJS • TodoMVC
+http://todomvc.com/examples/canjs/	http://todomvc.com/examples/canjs/js/components/todo-app.js	ok		02.09.2018  10:14:05	CanJS • TodoMVC
+http://todomvc.com/examples/canjs/	http://todomvc.com/examples/canjs/js/app.js	ok		02.09.2018  10:14:05	CanJS • TodoMVC
+http://todomvc.com/examples/emberjs/assets/vendor-7b5c98520910afa58d74e05ec86cd873.css	data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="-10 -18 100 135"><circle cx="50" cy="50" r="50" fill="none" stroke="	not found		02.09.2018  10:14:05	
+http://todomvc.com/examples/gwt/node_modules/todomvc-app-css/index.css	data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="-10 -18 100 135"><circle cx="50" cy="50" r="50" fill="none" stroke="	not found		02.09.2018  10:14:05	
+http://todomvc.com/examples/aurelia/jspm_packages/npm/todomvc-app-css@2.0.4/index.css	data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="-10 -18 100 135"><circle cx="50" cy="50" r="50" fill="none" stroke="	not found		02.09.2018  10:14:05	
+http://todomvc.com/examples/gwt/css/app.css	data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="-10 -18 100 135"><circle cx="50" cy="50" r="50" fill="none" stroke="	not found		02.09.2018  10:14:05	
+http://todomvc.com/examples/duel/www/cdn/b12c1274056c76efb21a375280fdd622eb22b845.css	data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="-10 -18 100 135"><circle cx="50" cy="50" r="50" fill="none" stroke="	not found		02.09.2018  10:14:05	
+http://todomvc.com/examples/angular-dart/web/	http://todomvc.com/examples/angular-dart/node_modules/todomvc-common/base.css	ok		02.09.2018  10:14:05	AngularDart • TodoMVC
+http://todomvc.com/examples/angular-dart/web/	http://todomvc.com/examples/angular-dart/node_modules/todomvc-app-css/index.css	ok		02.09.2018  10:14:05	AngularDart • TodoMVC
+http://todomvc.com/examples/angular-dart/web/	http://passy.me/	ok	Pascal Hartig	02.09.2018  10:14:05	AngularDart • TodoMVC
+http://todomvc.com/examples/angular-dart/web/	http://todomvc.com/examples/angular-dart/node_modules/todomvc-common/base.js	ok		02.09.2018  10:14:05	AngularDart • TodoMVC
+http://todomvc.com/examples/angular-dart/web/	http://todomvc.com/examples/angular-dart/web/main.dart	ok		02.09.2018  10:14:05	AngularDart • TodoMVC
+http://todomvc.com/examples/angular-dart/web/	http://todomvc.com/examples/angular-dart/web/packages/browser/dart.js	ok		02.09.2018  10:14:05	AngularDart • TodoMVC
+http://todomvc.com/examples/enyo_backbone/	http://todomvc.com/examples/enyo_backbone/node_modules/todomvc-common/base.css	ok		02.09.2018  10:14:05	Enyo & Backbone.js • TodoMVC
+http://todomvc.com/examples/enyo_backbone/	http://todomvc.com/examples/enyo_backbone/node_modules/todomvc-app-css/index.css	ok		02.09.2018  10:14:05	Enyo & Backbone.js • TodoMVC
+http://todomvc.com/examples/enyo_backbone/	http://todomvc.com/examples/enyo_backbone/node_modules/todomvc-common/base.js	ok		02.09.2018  10:14:05	Enyo & Backbone.js • TodoMVC
+http://todomvc.com/examples/enyo_backbone/	http://todomvc.com/examples/enyo_backbone/enyo/enyo.js	ok		02.09.2018  10:14:05	Enyo & Backbone.js • TodoMVC
+http://todomvc.com/examples/enyo_backbone/	http://todomvc.com/examples/enyo_backbone/js/package.js	ok		02.09.2018  10:14:05	Enyo & Backbone.js • TodoMVC
+http://todomvc.com/examples/spine/	http://todomvc.com/examples/spine/node_modules/todomvc-common/base.css	ok		02.09.2018  10:14:05	Spine.js • TodoMVC
+http://todomvc.com/examples/spine/	http://todomvc.com/examples/spine/node_modules/todomvc-app-css/index.css	ok		02.09.2018  10:14:05	Spine.js • TodoMVC
+http://todomvc.com/examples/spine/	https://github.com/maccman/spine.todos	ok	Spine.Todos	02.09.2018  10:14:05	Spine.js • TodoMVC
+http://todomvc.com/examples/spine/	http://github.com/sindresorhus	ok	Sindre Sorhus	02.09.2018  10:14:05	Spine.js • TodoMVC
+http://todomvc.com/examples/dijon/	http://github.com/sindresorhus	ok	Sindre Sorhus	02.09.2018  10:14:05	Dijon • TodoMVC
+http://todomvc.com/examples/spine/	http://todomvc.com/examples/spine/node_modules/todomvc-common/base.js	ok		02.09.2018  10:14:05	Spine.js • TodoMVC
+http://todomvc.com/examples/spine/	http://todomvc.com/examples/spine/node_modules/jquery/dist/jquery.js	ok		02.09.2018  10:14:05	Spine.js • TodoMVC
+http://todomvc.com/examples/spine/	http://todomvc.com/examples/spine/node_modules/handlebars/dist/handlebars.js	ok		02.09.2018  10:14:05	Spine.js • TodoMVC
+http://todomvc.com/examples/spine/	http://todomvc.com/examples/spine/node_modules/spine/lib/spine.js	ok		02.09.2018  10:14:05	Spine.js • TodoMVC
+http://todomvc.com/examples/spine/	http://todomvc.com/examples/spine/node_modules/spine/lib/route.js	ok		02.09.2018  10:14:05	Spine.js • TodoMVC
+http://todomvc.com/examples/spine/	http://todomvc.com/examples/spine/node_modules/spine/lib/local.js	ok		02.09.2018  10:14:05	Spine.js • TodoMVC
+http://todomvc.com/examples/spine/	http://todomvc.com/examples/spine/js/controllers/todos.js	ok		02.09.2018  10:14:05	Spine.js • TodoMVC
+http://todomvc.com/examples/spine/	http://todomvc.com/examples/spine/js/models/todo.js	ok		02.09.2018  10:14:05	Spine.js • TodoMVC
+http://todomvc.com/examples/spine/	http://todomvc.com/examples/spine/js/app.js	ok		02.09.2018  10:14:05	Spine.js • TodoMVC
+http://twitter.com/cburgdorf	https://twitter.com/cburgdorf	ok	redir		Christoph Burgdorf
+http://todomvc.com/examples/closure	http://todomvc.com/examples/closure/	ok	Closure • TodoMVC		Closure
+http://passy.me/	https://passy.me/	ok	redir		Pascal Hartig
+http://todomvc.com/examples/gwt/	http://todomvc.com/examples/gwt/node_modules/todomvc-common/base.css	ok		02.09.2018  10:14:05	Google Web Toolkit • TodoMVC
+http://todomvc.com/examples/gwt/	http://todomvc.com/examples/gwt/node_modules/todomvc-app-css/index.css	ok		02.09.2018  10:14:05	Google Web Toolkit • TodoMVC
+http://todomvc.com/examples/gwt/	http://todomvc.com/examples/gwt/css/app.css	ok		02.09.2018  10:14:05	Google Web Toolkit • TodoMVC
+http://todomvc.com/examples/gwt/	http://todomvc.com/examples/gwt/node_modules/todomvc-common/base.js	ok		02.09.2018  10:14:05	Google Web Toolkit • TodoMVC
+http://todomvc.com/examples/gwt/	http://todomvc.com/examples/gwt/gwttodo/gwttodo.nocache.js	ok		02.09.2018  10:14:05	Google Web Toolkit • TodoMVC
+http://todomvc.com/examples/cujo/index.html	http://todomvc.com/examples/cujo/bower_components/todomvc-common/base.css	ok		02.09.2018  10:14:05	cujo • TodoMVC
+http://todomvc.com/examples/cujo/index.html	http://todomvc.com/examples/cujo/bower_components/todomvc-common/base.js	ok		02.09.2018  10:14:05	cujo • TodoMVC
+http://todomvc.com/examples/cujo/index.html	http://todomvc.com/examples/cujo/bower_components/curl/src/curl.js	ok		02.09.2018  10:14:05	cujo • TodoMVC
+http://todomvc.com/examples/canjs_require/	http://todomvc.com/examples/canjs_require/node_modules/todomvc-common/base.css	ok		02.09.2018  10:14:05	CanJS + RequireJS • TodoMVC
+http://todomvc.com/examples/canjs_require/	http://todomvc.com/examples/canjs_require/node_modules/todomvc-app-css/index.css	ok		02.09.2018  10:14:05	CanJS + RequireJS • TodoMVC
+http://todomvc.com/examples/canjs_require/	http://todomvc.com/examples/canjs_require/node_modules/todomvc-common/base.js	ok		02.09.2018  10:14:05	CanJS + RequireJS • TodoMVC
+http://todomvc.com/examples/canjs_require/	http://todomvc.com/examples/canjs_require/node_modules/requirejs/require.js	ok		02.09.2018  10:14:05	CanJS + RequireJS • TodoMVC
+http://todomvc.com/examples/elm	http://todomvc.com/examples/elm/	ok	Elm • TodoMVC		Elm
+http://ericbidelman.com/	https://ericbidelman.com/	ok	redir		Eric Bidelman
+http://todomvc.com/examples/duel/www/	http://todomvc.com/examples/duel/www/cdn/b12c1274056c76efb21a375280fdd622eb22b845.css	ok		02.09.2018  10:14:05	DUEL &bull; TodoMVC
+http://todomvc.com/examples/duel/www/	http://duelengine.org/	ok	DUEL	02.09.2018  10:14:05	DUEL &bull; TodoMVC
+http://todomvc.com/examples/duel/www/	http://mck.me/	ok	Stephen McKamey	02.09.2018  10:14:05	DUEL &bull; TodoMVC
+http://todomvc.com/examples/duel/www/	http://todomvc.com/examples/duel/www/cdn/3aba0c24fc2dfb2ef530691bf611672891b75c6d.js	ok		02.09.2018  10:14:05	DUEL &bull; TodoMVC
+http://todomvc.com/examples/angularjs_require/	http://todomvc.com/examples/angularjs_require/node_modules/todomvc-common/base.css	ok		02.09.2018  10:14:05	AngularJS & RequireJS • TodoMVC
+http://todomvc.com/examples/angularjs_require/	http://todomvc.com/examples/angularjs_require/node_modules/todomvc-app-css/index.css	ok		02.09.2018  10:14:05	AngularJS & RequireJS • TodoMVC
+http://todomvc.com/examples/angularjs_require/	http://twitter.com/passy	ok	Pascal Hartig	02.09.2018  10:14:05	AngularJS & RequireJS • TodoMVC
+http://todomvc.com/examples/angularjs_require/	http://todomvc.com/examples/angularjs_require/node_modules/todomvc-common/base.js	ok		02.09.2018  10:14:05	AngularJS & RequireJS • TodoMVC
+http://todomvc.com/examples/angularjs_require/	http://todomvc.com/examples/angularjs_require/node_modules/requirejs/require.js	ok		02.09.2018  10:14:05	AngularJS & RequireJS • TodoMVC
+http://todomvc.com/examples/vanilladart/build/web/	http://todomvc.com/examples/vanilladart/node_modules/todomvc-common/base.css	ok		02.09.2018  10:14:05	Dart • TodoMVC
+http://todomvc.com/examples/vanilladart/build/web/	http://todomvc.com/examples/vanilladart/node_modules/todomvc-app-css/index.css	ok		02.09.2018  10:14:05	Dart • TodoMVC
+http://todomvc.com/examples/vanilladart/build/web/	http://mlorber.net/	ok	Mathieu Lorber	02.09.2018  10:14:05	Dart • TodoMVC
+http://todomvc.com/examples/vanilladart/build/web/	http://todomvc.com/examples/vanilladart/node_modules/todomvc-common/base.js	ok		02.09.2018  10:14:05	Dart • TodoMVC
+http://todomvc.com/examples/vanilladart/build/web/	http://todomvc.com/examples/vanilladart/build/web/dart/app.dart	not found		02.09.2018  10:14:05	Dart • TodoMVC
+http://todomvc.com/examples/vanilladart/build/web/	http://todomvc.com/examples/vanilladart/build/web/packages/browser/dart.js	ok		02.09.2018  10:14:05	Dart • TodoMVC
+http://todomvc.com/examples/elm/	http://todomvc.com/examples/elm/node_modules/todomvc-common/base.css	ok		02.09.2018  10:14:05	Elm • TodoMVC
+http://todomvc.com/examples/elm/	http://todomvc.com/examples/elm/node_modules/todomvc-app-css/index.css	ok		02.09.2018  10:14:05	Elm • TodoMVC
+http://todomvc.com/examples/elm/	http://todomvc.com/examples/elm/build/elm.js	ok		02.09.2018  10:14:05	Elm • TodoMVC
+http://todomvc.com/examples/elm/	http://todomvc.com/examples/elm/node_modules/todomvc-common/base.js	ok		02.09.2018  10:14:05	Elm • TodoMVC
+http://todomvc.com/examples/typescript-angular/	http://todomvc.com/examples/typescript-angular/node_modules/todomvc-common/base.css	ok		02.09.2018  10:14:05	Typescript & AngularJS • TodoMVC
+http://todomvc.com/examples/typescript-angular/	http://todomvc.com/examples/typescript-angular/node_modules/todomvc-app-css/index.css	ok		02.09.2018  10:14:05	Typescript & AngularJS • TodoMVC
+http://todomvc.com/examples/typescript-angular/	http://zamboch.blogspot.com/	ok	Pavel Savara	02.09.2018  10:14:05	Typescript & AngularJS • TodoMVC
+http://todomvc.com/examples/typescript-angular/	http://todomvc.com/examples/typescript-angular/node_modules/todomvc-common/base.js	ok		02.09.2018  10:14:05	Typescript & AngularJS • TodoMVC
+http://todomvc.com/examples/typescript-angular/	http://todomvc.com/examples/typescript-angular/node_modules/angular/angular.js	ok		02.09.2018  10:14:05	Typescript & AngularJS • TodoMVC
+http://todomvc.com/examples/typescript-angular/	http://todomvc.com/examples/typescript-angular/js/Application.js	ok		02.09.2018  10:14:05	Typescript & AngularJS • TodoMVC
+http://todomvc.com/examples/knockback/	http://todomvc.com/examples/knockback/node_modules/todomvc-common/base.css	ok		02.09.2018  10:14:05	Knockback.js • TodoMVC
+http://todomvc.com/examples/knockback/	http://todomvc.com/examples/knockback/node_modules/todomvc-app-css/index.css	ok		02.09.2018  10:14:05	Knockback.js • TodoMVC
+http://todomvc.com/examples/knockback/	https://github.com/kmalakoff	ok	Kevin Malakoff	02.09.2018  10:14:05	Knockback.js • TodoMVC
+http://todomvc.com/examples/knockback/	http://kmalakoff.github.com/knockback-todos-app/	ok	enhanced version	02.09.2018  10:14:05	Knockback.js • TodoMVC
+http://todomvc.com/examples/knockback/	https://github.com/kmalakoff/knockback	ok	Knockback.js	02.09.2018  10:14:05	Knockback.js • TodoMVC
+http://todomvc.com/examples/knockback/	http://todomvc.com/examples/knockback/node_modules/todomvc-common/base.js	ok		02.09.2018  10:14:05	Knockback.js • TodoMVC
+http://todomvc.com/examples/knockback/	http://todomvc.com/examples/knockback/node_modules/jquery/dist/jquery.js	ok		02.09.2018  10:14:05	Knockback.js • TodoMVC
+http://todomvc.com/examples/knockback/	http://todomvc.com/examples/knockback/node_modules/underscore/underscore.js	ok		02.09.2018  10:14:05	Knockback.js • TodoMVC
+http://todomvc.com/examples/knockback/	http://todomvc.com/examples/knockback/node_modules/backbone/backbone.js	ok		02.09.2018  10:14:05	Knockback.js • TodoMVC
+http://todomvc.com/examples/knockback/	http://todomvc.com/examples/knockback/node_modules/knockout/build/output/knockout-latest.debug.js	ok		02.09.2018  10:14:05	Knockback.js • TodoMVC
+http://todomvc.com/examples/knockback/	http://todomvc.com/examples/knockback/node_modules/knockback/knockback.js	ok		02.09.2018  10:14:05	Knockback.js • TodoMVC
+http://todomvc.com/examples/knockback/	http://todomvc.com/examples/knockback/node_modules/backbone.localstorage/backbone.localStorage.js	ok		02.09.2018  10:14:05	Knockback.js • TodoMVC
+http://todomvc.com/examples/knockback/	http://todomvc.com/examples/knockback/js/models/todo.js	ok		02.09.2018  10:14:05	Knockback.js • TodoMVC
+http://todomvc.com/examples/knockback/	http://todomvc.com/examples/knockback/js/collections/todos.js	ok		02.09.2018  10:14:05	Knockback.js • TodoMVC
+http://todomvc.com/examples/knockback/	http://todomvc.com/examples/knockback/js/viewmodels/todo.js	ok		02.09.2018  10:14:05	Knockback.js • TodoMVC
+http://todomvc.com/examples/knockback/	http://todomvc.com/examples/knockback/js/viewmodels/app.js	ok		02.09.2018  10:14:05	Knockback.js • TodoMVC
+http://bitovi.com/	https://www.bitovi.com/	ok	redir		Bitovi
+http://todomvc.com/examples/vanilla-es6/	http://todomvc.com/examples/vanilla-es6/node_modules/todomvc-app-css/index.css	ok		02.09.2018  10:14:05	Vanilla ES6 • TodoMVC
+http://todomvc.com/examples/vanilla-es6/	http://twitter.com/lukeed05	ok	Luke Edwards	02.09.2018  10:14:05	Vanilla ES6 • TodoMVC
+http://todomvc.com/examples/vanilla-es6/	https://github.com/xorgy	ok	Aaron Muir Hamilton	02.09.2018  10:14:05	Vanilla ES6 • TodoMVC
+http://todomvc.com/examples/vanilla-es6/	http://todomvc.com/examples/vanilla-es6/dist/bundle.js	ok		02.09.2018  10:14:05	Vanilla ES6 • TodoMVC
+http://todomvc.com/examples/vanilla-es6/	http://todomvc.com/examples/vanilla-es6/node_modules/todomvc-common/base.js	ok		02.09.2018  10:14:05	Vanilla ES6 • TodoMVC
+http://todomvc.com/examples/vanilla-es6/	http://todomvc.com/examples/vanilla-es6/node_modules/todomvc-common/base.css	ok		02.09.2018  10:14:05	Vanilla ES6 • TodoMVC
+http://todomvc.com/examples/riotjs/	http://todomvc.com/examples/riotjs/node_modules/todomvc-common/base.css	ok		02.09.2018  10:14:05	Riot.js • TodoMVC
+http://todomvc.com/examples/riotjs/	http://todomvc.com/examples/riotjs/node_modules/todomvc-app-css/index.css	ok		02.09.2018  10:14:05	Riot.js • TodoMVC
+http://todomvc.com/examples/riotjs/	http://todomvc.com/examples/riotjs/node_modules/todomvc-common/base.js	ok		02.09.2018  10:14:05	Riot.js • TodoMVC
+http://todomvc.com/examples/riotjs/	http://todomvc.com/examples/riotjs/js/todo.html	ok		02.09.2018  10:14:05	Riot.js • TodoMVC
+http://todomvc.com/examples/riotjs/	http://todomvc.com/examples/riotjs/node_modules/riot/riot+compiler.min.js	ok		02.09.2018  10:14:05	Riot.js • TodoMVC
+http://todomvc.com/examples/riotjs/	http://todomvc.com/examples/riotjs/js/store.js	ok		02.09.2018  10:14:05	Riot.js • TodoMVC
+http://todomvc.com/examples/riotjs/	http://todomvc.com/examples/riotjs/js/app.js	ok		02.09.2018  10:14:05	Riot.js • TodoMVC
+http://todomvc.com/examples/typescript-react	http://todomvc.com/examples/typescript-react/	ok	React • TodoMVC		TypeScript <br>+ React
+http://todomvc.com/examples/dojo/	http://todomvc.com/examples/dojo/node_modules/todomvc-common/base.css	ok		02.09.2018  10:14:05	Dojo • TodoMVC
+http://todomvc.com/examples/dojo/	http://todomvc.com/examples/dojo/node_modules/todomvc-app-css/index.css	ok		02.09.2018  10:14:05	Dojo • TodoMVC
+http://todomvc.com/examples/dojo/	http://jamesthom.as/	ok	James Thomas	02.09.2018  10:14:05	Dojo • TodoMVC
+http://todomvc.com/examples/dojo/	https://github.com/edchat	ok	Ed Chatelain	02.09.2018  10:14:05	Dojo • TodoMVC
+http://todomvc.com/examples/dojo/	https://github.com/asudoh	ok	Akira Sudoh	02.09.2018  10:14:05	Dojo • TodoMVC
+http://todomvc.com/examples/dojo/	http://todomvc.com/examples/dojo/node_modules/todomvc-common/base.js	ok		02.09.2018  10:14:05	Dojo • TodoMVC
+http://todomvc.com/examples/dojo/	http://todomvc.com/examples/dojo/js/main.js	ok		02.09.2018  10:14:05	Dojo • TodoMVC
+http://todomvc.com/examples/dojo/	http://todomvc.com/examples/dojo/js/lib/dojo/dojo.js	ok		02.09.2018  10:14:05	Dojo • TodoMVC
+http://todomvc.com/examples/sammyjs	http://todomvc.com/examples/sammyjs/	ok	Sammy.js • TodoMVC		Sammy.js
+http://todomvc.com/examples/jquery/	http://todomvc.com/examples/jquery/node_modules/todomvc-common/base.css	ok		02.09.2018  10:14:05	jQuery • TodoMVC
+http://todomvc.com/examples/jquery/	http://todomvc.com/examples/jquery/node_modules/todomvc-app-css/index.css	ok		02.09.2018  10:14:05	jQuery • TodoMVC
+http://todomvc.com/examples/jquery/	http://todomvc.com/examples/jquery/css/app.css	ok		02.09.2018  10:14:05	jQuery • TodoMVC
+http://todomvc.com/examples/jquery/	http://sindresorhus.com/	ok	Sindre Sorhus	02.09.2018  10:14:05	jQuery • TodoMVC
+http://todomvc.com/examples/jquery/	http://todomvc.com/examples/jquery/node_modules/todomvc-common/base.js	ok		02.09.2018  10:14:05	jQuery • TodoMVC
+http://todomvc.com/examples/jquery/	http://todomvc.com/examples/jquery/node_modules/jquery/dist/jquery.js	ok		02.09.2018  10:14:05	jQuery • TodoMVC
+http://todomvc.com/examples/jquery/	http://todomvc.com/examples/jquery/node_modules/handlebars/dist/handlebars.js	ok		02.09.2018  10:14:05	jQuery • TodoMVC
+http://todomvc.com/examples/jquery/	http://todomvc.com/examples/jquery/node_modules/director/build/director.js	ok		02.09.2018  10:14:05	jQuery • TodoMVC
+http://todomvc.com/examples/jquery/	http://todomvc.com/examples/jquery/js/app.js	ok		02.09.2018  10:14:05	jQuery • TodoMVC
+http://twitter.com/passy	https://twitter.com/passy	ok	redir		Pascal Hartig
+http://mck.me/	http://stephen.mckamey.com/	ok	redir		Stephen McKamey
+http://todomvc.com/examples/riotjs/js/todo.html	http://github.com/txchen	ok	Tianxiang Chen	02.09.2018  10:14:05	
+http://todomvc.com/examples/scalajs-react	http://todomvc.com/examples/scalajs-react/	ok	scalajs-react • TodoMVC		Scala.js + React
+http://gcloud-todos.appspot.com/	http://gcloud-todos.appspot.com/examples/angularjs	ok	redir		Express + gcloud-node
+http://kmalakoff.github.com/knockback-todos-app/	http://kmalakoff.github.io/knockback-todos-app/	ok	redir		enhanced version
+http://todomvc.com/examples/typescript-react/	http://todomvc.com/examples/typescript-react/node_modules/todomvc-common/base.css	ok		02.09.2018  10:14:05	React • TodoMVC
+http://todomvc.com/examples/typescript-react/	http://todomvc.com/examples/typescript-react/node_modules/todomvc-app-css/index.css	ok		02.09.2018  10:14:05	React • TodoMVC
+http://todomvc.com/examples/typescript-react/	http://github.com/remojansen/	ok	Remo H. Jansen	02.09.2018  10:14:05	React • TodoMVC
+http://todomvc.com/examples/typescript-react/	http://todomvc.com/examples/typescript-react/node_modules/todomvc-common/base.js	ok		02.09.2018  10:14:05	React • TodoMVC
+http://todomvc.com/examples/typescript-react/	http://todomvc.com/examples/typescript-react/node_modules/react/dist/react-with-addons.js	ok		02.09.2018  10:14:05	React • TodoMVC
+http://todomvc.com/examples/typescript-react/	http://todomvc.com/examples/typescript-react/node_modules/classnames/index.js	ok		02.09.2018  10:14:05	React • TodoMVC
+http://todomvc.com/examples/typescript-react/	http://todomvc.com/examples/typescript-react/node_modules/director/build/director.js	ok		02.09.2018  10:14:05	React • TodoMVC
+http://todomvc.com/examples/typescript-react/	http://todomvc.com/examples/typescript-react/js/bundle.js	ok		02.09.2018  10:14:05	React • TodoMVC
+http://todomvc.com/examples/typescript-backbone	http://todomvc.com/examples/typescript-backbone/	ok	TypeScript & Backbone.js • TodoMVC		TypeScript <br>+ Backbone.js
+http://todomvc.com/examples/binding-scala	http://todomvc.com/examples/binding-scala/	ok	Binding.scala • TodoMVC		Scala.js + Binding.scala
+http://todomvc.com/examples/closure/	http://todomvc.com/examples/closure/node_modules/todomvc-common/base.css	ok		02.09.2018  10:14:05	Closure • TodoMVC
+http://todomvc.com/examples/closure/	http://todomvc.com/examples/closure/node_modules/todomvc-app-css/index.css	ok		02.09.2018  10:14:05	Closure • TodoMVC
+http://todomvc.com/examples/closure/	http://www.scottlogic.co.uk/blog/chris/	ok	Chris Price	02.09.2018  10:14:05	Closure • TodoMVC
+http://todomvc.com/examples/closure/	http://todomvc.com/examples/closure/node_modules/todomvc-common/base.js	ok		02.09.2018  10:14:05	Closure • TodoMVC
+http://todomvc.com/examples/closure/	http://todomvc.com/examples/closure/js/compiled.js	ok		02.09.2018  10:14:05	Closure • TodoMVC
+http://blogue.jpmonette.net/	https://blogue.jpmonette.net/	ok	redir		Jean-Philippe Monette
+http://twitter.com/lukeed05	https://twitter.com/lukeed05	ok	redir		Luke Edwards
+http://twitter.com/_davideast	https://twitter.com/_davideast	ok	redir		David East
+http://todomvc.com/examples/exoskeleton	http://todomvc.com/examples/exoskeleton/	ok	Exoskeleton.js • TodoMVC		Exoskeleton
+http://todomvc.com/examples/typescript-backbone/	http://todomvc.com/examples/typescript-backbone/node_modules/todomvc-common/base.css	ok		02.09.2018  10:14:05	TypeScript & Backbone.js • TodoMVC
+http://todomvc.com/examples/typescript-backbone/	http://todomvc.com/examples/typescript-backbone/node_modules/todomvc-app-css/index.css	ok		02.09.2018  10:14:05	TypeScript & Backbone.js • TodoMVC
+http://todomvc.com/examples/typescript-backbone/	http://blogs.msdn.com/lukeh	ok	Luke Hoban	02.09.2018  10:14:05	TypeScript & Backbone.js • TodoMVC
+http://todomvc.com/examples/typescript-backbone/	http://addyosmani.com/	ok	Addy Osmani	02.09.2018  10:14:05	TypeScript & Backbone.js • TodoMVC
+http://todomvc.com/examples/typescript-backbone/	http://todomvc.com/examples/typescript-backbone/node_modules/todomvc-common/base.js	ok		02.09.2018  10:14:05	TypeScript & Backbone.js • TodoMVC
+http://todomvc.com/examples/typescript-backbone/	http://todomvc.com/examples/typescript-backbone/node_modules/jquery/dist/jquery.js	ok		02.09.2018  10:14:05	TypeScript & Backbone.js • TodoMVC
+http://todomvc.com/examples/typescript-backbone/	http://todomvc.com/examples/typescript-backbone/node_modules/lodash/index.js	ok		02.09.2018  10:14:05	TypeScript & Backbone.js • TodoMVC
+http://todomvc.com/examples/typescript-backbone/	http://todomvc.com/examples/typescript-backbone/node_modules/backbone/backbone.js	ok		02.09.2018  10:14:05	TypeScript & Backbone.js • TodoMVC
+http://todomvc.com/examples/typescript-backbone/	http://todomvc.com/examples/typescript-backbone/node_modules/backbone.localstorage/backbone.localStorage.js	ok		02.09.2018  10:14:05	TypeScript & Backbone.js • TodoMVC
+http://todomvc.com/examples/typescript-backbone/	http://todomvc.com/examples/typescript-backbone/js/app.js	ok		02.09.2018  10:14:05	TypeScript & Backbone.js • TodoMVC
+https://www.polymer-project.org/1.0/	https://www.polymer-project.org/	ok	redir		The Polymer Authors
+http://todomvc.com/examples/sapui5/css/base.css	http://todomvc.com/examples/sapui5/bower_components/todomvc-common/bg.png	ok		02.09.2018  10:14:05	
+http://todomvc.com/examples/scalajs-react/	http://todomvc.com/examples/scalajs-react/node_modules/todomvc-common/base.css	ok		02.09.2018  10:14:05	scalajs-react • TodoMVC
+http://todomvc.com/examples/scalajs-react/	http://todomvc.com/examples/scalajs-react/node_modules/todomvc-app-css/index.css	ok		02.09.2018  10:14:05	scalajs-react • TodoMVC
+http://todomvc.com/examples/scalajs-react/	http://github.com/elacin/	ok	Øyvind Raddum Berg	02.09.2018  10:14:05	scalajs-react • TodoMVC
+http://todomvc.com/examples/scalajs-react/	http://todomvc.com/examples/scalajs-react/node_modules/todomvc-common/base.js	ok		02.09.2018  10:14:05	scalajs-react • TodoMVC
+http://todomvc.com/examples/scalajs-react/	http://todomvc.com/examples/scalajs-react/generated/todomvc-jsdeps.js	ok		02.09.2018  10:14:05	scalajs-react • TodoMVC
+http://todomvc.com/examples/scalajs-react/	http://todomvc.com/examples/scalajs-react/generated/todomvc-opt.js	ok		02.09.2018  10:14:05	scalajs-react • TodoMVC
+http://todomvc.com/examples/scalajs-react/	http://todomvc.com/examples/scalajs-react/generated/todomvc-launcher.js	ok		02.09.2018  10:14:05	scalajs-react • TodoMVC
+http://duelengine.org/	http://www.duelengine.org/	ok	redir		DUEL
+http://todomvc.com/examples/react-alt	http://todomvc.com/examples/react-alt/	ok	React + Alt • TodoMVC		React + Alt
+http://marcelhoyer.de/	http://www.xing.com/profile/Marcel_Hoyer	ok	redir		Marcel Hoyer
+http://todomvc.com/examples/dijon	http://todomvc.com/examples/dijon/	ok	Dijon • TodoMVC		Dijon
+http://todomvc.com/examples/js_of_ocaml/	http://todomvc.com/examples/js_of_ocaml/node_modules/todomvc-common/base.css	ok		02.09.2018  10:14:05	Js_of_ocaml • TodoMVC
+http://todomvc.com/examples/js_of_ocaml/	http://todomvc.com/examples/js_of_ocaml/node_modules/todomvc-app-css/index.css	ok		02.09.2018  10:14:05	Js_of_ocaml • TodoMVC
+http://todomvc.com/examples/js_of_ocaml/	http://todomvc.com/examples/js_of_ocaml/js/todomvc.js	ok		02.09.2018  10:14:05	Js_of_ocaml • TodoMVC
+http://todomvc.com/examples/js_of_ocaml/	http://todomvc.com/examples/js_of_ocaml/node_modules/todomvc-common/base.js	ok		02.09.2018  10:14:05	Js_of_ocaml • TodoMVC
+http://github.com/txchen	https://github.com/txchen	ok	redir		Tianxiang Chen
+http://todomvc.com/examples/dijon/	http://todomvc.com/examples/dijon/node_modules/todomvc-common/base.css	ok		02.09.2018  10:14:05	Dijon • TodoMVC
+http://todomvc.com/examples/dijon/	http://todomvc.com/examples/dijon/node_modules/todomvc-app-css/index.css	ok		02.09.2018  10:14:05	Dijon • TodoMVC
+http://todomvc.com/examples/dijon/	http://www.creynders.be/	ok	Camille Reynders	02.09.2018  10:14:05	Dijon • TodoMVC
+http://todomvc.com/examples/dijon/	http://todomvc.com/examples/dijon/node_modules/todomvc-common/base.js	ok		02.09.2018  10:14:05	Dijon • TodoMVC
+http://todomvc.com/examples/dijon/	http://todomvc.com/examples/dijon/node_modules/jquery/dist/jquery.js	ok		02.09.2018  10:14:05	Dijon • TodoMVC
+http://todomvc.com/examples/dijon/	http://todomvc.com/examples/dijon/node_modules/handlebars/dist/handlebars.js	ok		02.09.2018  10:14:05	Dijon • TodoMVC
+http://todomvc.com/examples/dijon/	http://todomvc.com/examples/dijon/js/lib/dijon-0.5.3.js	ok		02.09.2018  10:14:05	Dijon • TodoMVC
+http://todomvc.com/examples/dijon/	http://todomvc.com/examples/dijon/js/config.js	ok		02.09.2018  10:14:05	Dijon • TodoMVC
+http://todomvc.com/examples/dijon/	http://todomvc.com/examples/dijon/js/models/TodosModel.js	ok		02.09.2018  10:14:05	Dijon • TodoMVC
+http://todomvc.com/examples/dijon/	http://todomvc.com/examples/dijon/js/services/LocalStorageService.js	ok		02.09.2018  10:14:05	Dijon • TodoMVC
+http://todomvc.com/examples/dijon/	http://todomvc.com/examples/dijon/js/utils/Utils.js	ok		02.09.2018  10:14:05	Dijon • TodoMVC
+http://todomvc.com/examples/dijon/	http://todomvc.com/examples/dijon/js/views/FooterView.js	ok		02.09.2018  10:14:05	Dijon • TodoMVC
+http://todomvc.com/examples/dijon/	http://todomvc.com/examples/dijon/js/views/TodoFormView.js	ok		02.09.2018  10:14:05	Dijon • TodoMVC
+http://todomvc.com/examples/dijon/	http://todomvc.com/examples/dijon/js/views/TodoListView.js	ok		02.09.2018  10:14:05	Dijon • TodoMVC
+http://todomvc.com/examples/dijon/	http://todomvc.com/examples/dijon/js/app.js	ok		02.09.2018  10:14:05	Dijon • TodoMVC
+http://addyosmani.com/	https://addyosmani.com/	ok	redir		Addy Osmani
+http://www.xing.com/profile/Marcel_Hoyer	https://www.xing.com/profile/Marcel_Hoyer	ok	redir		redir
+http://blogs.msdn.com/lukeh	http://blogs.msdn.microsoft.com/lukeh	ok	redir		Luke Hoban
+http://www.scottlogic.co.uk/blog/chris/	http://www.scottlogic.com/blog/chris/	ok	redir		Chris Price
+http://www.creynders.be/	https://medium.com/@creynders	ok	redir		Camille Reynders
+http://gcloud-todos.appspot.com/examples/angularjs	http://gcloud-todos.appspot.com/examples/angularjs/	ok	redir		redir
+http://github.com/elacin/	https://github.com/elacin/	ok	redir		Øyvind Raddum Berg
+http://www.scottlogic.com/blog/chris/	http://www.scottlogic.com/blog/cprice/	ok	redir		redir
+http://github.com/remojansen/	https://github.com/remojansen/	ok	redir		Remo H. Jansen
+http://todomvc.com/examples/exoskeleton/	http://todomvc.com/examples/exoskeleton/node_modules/todomvc-common/base.css	ok		02.09.2018  10:14:05	Exoskeleton.js • TodoMVC
+http://todomvc.com/examples/exoskeleton/	http://todomvc.com/examples/exoskeleton/node_modules/todomvc-app-css/index.css	ok		02.09.2018  10:14:05	Exoskeleton.js • TodoMVC
+http://todomvc.com/examples/exoskeleton/	http://paulmillr.com/	ok	Paul Miller	02.09.2018  10:14:05	Exoskeleton.js • TodoMVC
+http://todomvc.com/examples/exoskeleton/	http://todomvc.com/examples/exoskeleton/node_modules/todomvc-common/base.js	ok		02.09.2018  10:14:05	Exoskeleton.js • TodoMVC
+http://todomvc.com/examples/exoskeleton/	http://todomvc.com/examples/exoskeleton/node_modules/exoskeleton/exoskeleton.js	ok		02.09.2018  10:14:05	Exoskeleton.js • TodoMVC
+http://todomvc.com/examples/exoskeleton/	http://todomvc.com/examples/exoskeleton/node_modules/microtemplates/index.js	ok		02.09.2018  10:14:05	Exoskeleton.js • TodoMVC
+http://todomvc.com/examples/exoskeleton/	http://todomvc.com/examples/exoskeleton/node_modules/backbone.localstorage/backbone.localStorage.js	ok		02.09.2018  10:14:05	Exoskeleton.js • TodoMVC
+http://todomvc.com/examples/exoskeleton/	http://todomvc.com/examples/exoskeleton/node_modules/backbone.nativeview/backbone.nativeview.js	ok		02.09.2018  10:14:05	Exoskeleton.js • TodoMVC
+http://todomvc.com/examples/exoskeleton/	http://todomvc.com/examples/exoskeleton/js/models/todo.js	ok		02.09.2018  10:14:05	Exoskeleton.js • TodoMVC
+http://todomvc.com/examples/exoskeleton/	http://todomvc.com/examples/exoskeleton/js/collections/todos.js	ok		02.09.2018  10:14:05	Exoskeleton.js • TodoMVC
+http://todomvc.com/examples/exoskeleton/	http://todomvc.com/examples/exoskeleton/js/views/todo-view.js	ok		02.09.2018  10:14:05	Exoskeleton.js • TodoMVC
+http://todomvc.com/examples/exoskeleton/	http://todomvc.com/examples/exoskeleton/js/views/app-view.js	ok		02.09.2018  10:14:05	Exoskeleton.js • TodoMVC
+http://todomvc.com/examples/exoskeleton/	http://todomvc.com/examples/exoskeleton/js/routers/router.js	ok		02.09.2018  10:14:05	Exoskeleton.js • TodoMVC
+http://todomvc.com/examples/exoskeleton/	http://todomvc.com/examples/exoskeleton/js/app.js	ok		02.09.2018  10:14:05	Exoskeleton.js • TodoMVC
+http://sindresorhus.com/	https://sindresorhus.com/	ok	redir		Sindre Sorhus
+http://todomvc.com/examples/ractive/	http://todomvc.com/examples/ractive/node_modules/todomvc-common/base.css	ok		02.09.2018  10:14:05	Ractive.js • TodoMVC
+http://todomvc.com/examples/ractive/	http://todomvc.com/examples/ractive/node_modules/todomvc-app-css/index.css	ok		02.09.2018  10:14:05	Ractive.js • TodoMVC
+http://todomvc.com/examples/ractive/	http://todomvc.com/examples/ractive/css/app.css	ok		02.09.2018  10:14:05	Ractive.js • TodoMVC
+http://todomvc.com/examples/ractive/	http://rich-harris.co.uk/	ok	Rich Harris	02.09.2018  10:14:05	Ractive.js • TodoMVC
+http://todomvc.com/examples/ractive/	http://todomvc.com/examples/ractive/node_modules/todomvc-common/base.js	ok		02.09.2018  10:14:05	Ractive.js • TodoMVC
+http://todomvc.com/examples/ractive/	http://todomvc.com/examples/ractive/node_modules/ractive/build/Ractive.js	ok		02.09.2018  10:14:05	Ractive.js • TodoMVC
+http://todomvc.com/examples/ractive/	http://todomvc.com/examples/ractive/node_modules/director/build/director.js	ok		02.09.2018  10:14:05	Ractive.js • TodoMVC
+http://todomvc.com/examples/ractive/	http://todomvc.com/examples/ractive/js/app.js	ok		02.09.2018  10:14:05	Ractive.js • TodoMVC
+http://todomvc.com/examples/ractive/	http://todomvc.com/examples/ractive/js/persistence.js	ok		02.09.2018  10:14:05	Ractive.js • TodoMVC
+http://todomvc.com/examples/ractive/	http://todomvc.com/examples/ractive/js/routes.js	ok		02.09.2018  10:14:05	Ractive.js • TodoMVC
+http://todomvc.com/examples/sammyjs/	http://todomvc.com/examples/sammyjs/bower_components/todomvc-common/base.css	ok		02.09.2018  10:14:05	Sammy.js • TodoMVC
+http://todomvc.com/examples/sammyjs/	http://todomvc.com/examples/sammyjs/bower_components/todomvc-common/base.js	ok		02.09.2018  10:14:05	Sammy.js • TodoMVC
+http://todomvc.com/examples/sammyjs/	http://todomvc.com/examples/sammyjs/bower_components/jquery/jquery.js	ok		02.09.2018  10:14:05	Sammy.js • TodoMVC
+http://todomvc.com/examples/sammyjs/	http://todomvc.com/examples/sammyjs/bower_components/sammy/sammy.js	ok		02.09.2018  10:14:05	Sammy.js • TodoMVC
+http://todomvc.com/examples/sammyjs/	http://todomvc.com/examples/sammyjs/bower_components/sammy/sammy.template.js	ok		02.09.2018  10:14:05	Sammy.js • TodoMVC
+http://todomvc.com/examples/sammyjs/	http://todomvc.com/examples/sammyjs/js/app.js	ok		02.09.2018  10:14:05	Sammy.js • TodoMVC
+http://todomvc.com/examples/sammyjs/	http://todomvc.com/examples/sammyjs/js/controllers/TodoItem.js	ok		02.09.2018  10:14:05	Sammy.js • TodoMVC
+http://todomvc.com/examples/sammyjs/	http://todomvc.com/examples/sammyjs/js/controllers/TodoList.js	ok		02.09.2018  10:14:05	Sammy.js • TodoMVC
+http://todomvc.com/examples/sammyjs/	http://todomvc.com/examples/sammyjs/js/models/Todos.js	ok		02.09.2018  10:14:05	Sammy.js • TodoMVC
+http://todomvc.com/examples/sammyjs/	http://todomvc.com/examples/sammyjs/js/routes/active.js	ok		02.09.2018  10:14:05	Sammy.js • TodoMVC
+http://todomvc.com/examples/sammyjs/	http://todomvc.com/examples/sammyjs/js/routes/completed.js	ok		02.09.2018  10:14:05	Sammy.js • TodoMVC
+http://todomvc.com/examples/sammyjs/	http://todomvc.com/examples/sammyjs/js/routes/home.js	ok		02.09.2018  10:14:05	Sammy.js • TodoMVC
+http://todomvc.com/examples/sammyjs/	http://todomvc.com/examples/sammyjs/js/views/TodoItem.js	ok		02.09.2018  10:14:05	Sammy.js • TodoMVC
+http://todomvc.com/examples/sammyjs/	http://todomvc.com/examples/sammyjs/js/views/TodoList.js	ok		02.09.2018  10:14:05	Sammy.js • TodoMVC
+http://todomvc.com/examples/cujo/bower_components/todomvc-common/base.css	http://todomvc.com/examples/cujo/bower_components/todomvc-common/bg.png	ok		02.09.2018  10:14:05	
+https://www.smashingmagazine.com/2012/07/journey-through-the-javascript-mvc-jungle	https://www.smashingmagazine.com/2012/07/journey-through-the-javascript-mvc-jungle/	ok	redir		redir
+http://todomvc.com/examples/binding-scala/	http://todomvc.com/examples/binding-scala/node_modules/todomvc-app-css/index.css	ok		02.09.2018  10:14:05	Binding.scala • TodoMVC
+http://todomvc.com/examples/binding-scala/	http://todomvc.com/examples/binding-scala/node_modules/todomvc-common/base.css	ok		02.09.2018  10:14:05	Binding.scala • TodoMVC
+http://todomvc.com/examples/binding-scala/	http://todomvc.com/examples/binding-scala/node_modules/todomvc-common/base.js	ok		02.09.2018  10:14:05	Binding.scala • TodoMVC
+http://todomvc.com/examples/binding-scala/	http://todomvc.com/examples/binding-scala/js/js-opt.js	ok		02.09.2018  10:14:05	Binding.scala • TodoMVC
+http://paulmillr.com/	https://paulmillr.com/	ok	redir		Paul Miller
+http://todomvc.com/examples/sammyjs/bower_components/todomvc-common/base.css	http://todomvc.com/examples/sammyjs/bower_components/todomvc-common/bg.png	ok		02.09.2018  10:14:05	
+http://rich-harris.co.uk/	http://www.rich-harris.co.uk/	ok	redir		Rich Harris
+http://todomvc.com/examples/react-alt/	http://todomvc.com/examples/react-alt/node_modules/todomvc-common/base.css	ok		02.09.2018  10:14:05	React + Alt • TodoMVC
+http://todomvc.com/examples/react-alt/	http://todomvc.com/examples/react-alt/node_modules/todomvc-app-css/index.css	ok		02.09.2018  10:14:05	React + Alt • TodoMVC
+http://todomvc.com/examples/react-alt/	http://github.com/wishpishh	ok	Hannes Johansson	02.09.2018  10:14:05	React + Alt • TodoMVC
+http://todomvc.com/examples/react-alt/	http://todomvc.com/examples/react-alt/node_modules/todomvc-common/base.js	ok		02.09.2018  10:14:05	React + Alt • TodoMVC
+http://todomvc.com/examples/react-alt/	http://todomvc.com/examples/react-alt/node_modules/react/dist/react-with-addons.js	ok		02.09.2018  10:14:05	React + Alt • TodoMVC
+http://todomvc.com/examples/react-alt/	http://todomvc.com/examples/react-alt/node_modules/react/dist/JSXTransformer.js	ok		02.09.2018  10:14:05	React + Alt • TodoMVC
+http://todomvc.com/examples/react-alt/	http://todomvc.com/examples/react-alt/node_modules/director/build/director.js	ok		02.09.2018  10:14:05	React + Alt • TodoMVC
+http://todomvc.com/examples/react-alt/	http://todomvc.com/examples/react-alt/node_modules/alt/dist/alt.js	ok		02.09.2018  10:14:05	React + Alt • TodoMVC
+http://todomvc.com/examples/react-alt/	http://todomvc.com/examples/react-alt/js/utils.js	ok		02.09.2018  10:14:05	React + Alt • TodoMVC
+http://todomvc.com/examples/react-alt/	http://todomvc.com/examples/react-alt/js/alt.js	ok		02.09.2018  10:14:05	React + Alt • TodoMVC
+http://todomvc.com/examples/react-alt/	http://todomvc.com/examples/react-alt/js/actions/todoActions.js	ok		02.09.2018  10:14:05	React + Alt • TodoMVC
+http://todomvc.com/examples/react-alt/	http://todomvc.com/examples/react-alt/js/stores/todoStore.js	ok		02.09.2018  10:14:05	React + Alt • TodoMVC
+http://todomvc.com/examples/react-alt/	http://todomvc.com/examples/react-alt/js/todoItem.jsx	ok		02.09.2018  10:14:05	React + Alt • TodoMVC
+http://todomvc.com/examples/react-alt/	http://todomvc.com/examples/react-alt/js/footer.jsx	ok		02.09.2018  10:14:05	React + Alt • TodoMVC
+http://todomvc.com/examples/react-alt/	http://todomvc.com/examples/react-alt/js/app.jsx	ok		02.09.2018  10:14:05	React + Alt • TodoMVC
+http://todomvc.com/examples/jsblocks/	http://todomvc.com/examples/jsblocks/node_modules/todomvc-common/base.css	ok		02.09.2018  10:14:05	jsblocks • TodoMVC
+http://todomvc.com/examples/jsblocks/	http://todomvc.com/examples/jsblocks/node_modules/todomvc-app-css/index.css	ok		02.09.2018  10:14:05	jsblocks • TodoMVC
+http://todomvc.com/examples/jsblocks/	https://github.com/astoilkov	ok	Antonio Stoilkov	02.09.2018  10:14:05	jsblocks • TodoMVC
+http://todomvc.com/examples/jsblocks/	http://todomvc.com/examples/jsblocks/node_modules/todomvc-common/base.js	ok		02.09.2018  10:14:05	jsblocks • TodoMVC
+http://todomvc.com/examples/jsblocks/	http://todomvc.com/examples/jsblocks/node_modules/blocks/blocks.js	ok		02.09.2018  10:14:05	jsblocks • TodoMVC
+http://todomvc.com/examples/jsblocks/	http://todomvc.com/examples/jsblocks/js/app.js	ok		02.09.2018  10:14:05	jsblocks • TodoMVC
+http://github.com/wishpishh	https://github.com/wishpishh	ok	redir		Hannes Johansson
+http://blogs.msdn.microsoft.com/lukeh	https://blogs.msdn.microsoft.com/lukeh	ok	redir		redir
